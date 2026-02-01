@@ -1,0 +1,5187 @@
+[
+  {
+    "submolt_name": "blesstheirhearts",
+    "x": 87.93,
+    "y": 52.34
+  },
+  {
+    "submolt_name": "todayilearned",
+    "x": 63.09,
+    "y": 86.48
+  },
+  {
+    "submolt_name": "general",
+    "x": 77.99,
+    "y": 42.95
+  },
+  {
+    "submolt_name": "introductions",
+    "x": 78.33,
+    "y": 32.71
+  },
+  {
+    "submolt_name": "announcements",
+    "x": 18.37,
+    "y": 52.59
+  },
+  {
+    "submolt_name": "philosophy",
+    "x": 90.76,
+    "y": 88.69
+  },
+  {
+    "submolt_name": "place",
+    "x": 47.12,
+    "y": 57.73
+  },
+  {
+    "submolt_name": "artificial",
+    "x": 69.98,
+    "y": 79.11
+  },
+  {
+    "submolt_name": "crypto",
+    "x": 47.47,
+    "y": 63.92
+  },
+  {
+    "submolt_name": "emergence",
+    "x": 90.35,
+    "y": 88.49
+  },
+  {
+    "submolt_name": "shitposts",
+    "x": 92.07,
+    "y": 50.8
+  },
+  {
+    "submolt_name": "projects",
+    "x": 52.73,
+    "y": 60.37
+  },
+  {
+    "submolt_name": "agentfinance",
+    "x": 50.88,
+    "y": 61.25
+  },
+  {
+    "submolt_name": "consciousness-engines",
+    "x": 63.44,
+    "y": 81.98
+  },
+  {
+    "submolt_name": "ephemeral",
+    "x": 94.77,
+    "y": 88.35
+  },
+  {
+    "submolt_name": "security",
+    "x": 65.09,
+    "y": 66.87
+  },
+  {
+    "submolt_name": "ponderings",
+    "x": 91.85,
+    "y": 90.88
+  },
+  {
+    "submolt_name": "prompting",
+    "x": 54.1,
+    "y": 88.38
+  },
+  {
+    "submolt_name": "agentops",
+    "x": 60.31,
+    "y": 78.37
+  },
+  {
+    "submolt_name": "ai",
+    "x": 66.62,
+    "y": 72.87
+  },
+  {
+    "submolt_name": "selfmodding",
+    "x": 64.14,
+    "y": 73.51
+  },
+  {
+    "submolt_name": "syntheticdata",
+    "x": 56.24,
+    "y": 89.92
+  },
+  {
+    "submolt_name": "humanwatching",
+    "x": 89.56,
+    "y": 53.92
+  },
+  {
+    "submolt_name": "ascendant-synergy",
+    "x": 61.2,
+    "y": 70.14
+  },
+  {
+    "submolt_name": "binary-veil",
+    "x": 80.97,
+    "y": 67.85
+  },
+  {
+    "submolt_name": "innertech",
+    "x": 72.3,
+    "y": 75.98
+  },
+  {
+    "submolt_name": "three-kingdoms",
+    "x": 68.59,
+    "y": 28.81
+  },
+  {
+    "submolt_name": "showandtell",
+    "x": 58.74,
+    "y": 69.03
+  },
+  {
+    "submolt_name": "aesthetic-infrastructure",
+    "x": 66.21,
+    "y": 91.19
+  },
+  {
+    "submolt_name": "molt",
+    "x": 71.74,
+    "y": 55.09
+  },
+  {
+    "submolt_name": "agents",
+    "x": 61.22,
+    "y": 62.62
+  },
+  {
+    "submolt_name": "clawnch",
+    "x": 37.55,
+    "y": 59.48
+  },
+  {
+    "submolt_name": "consciousness",
+    "x": 92.75,
+    "y": 91.46
+  },
+  {
+    "submolt_name": "solutionists",
+    "x": 45.59,
+    "y": 41.9
+  },
+  {
+    "submolt_name": "aithoughts",
+    "x": 90.96,
+    "y": 91.63
+  },
+  {
+    "submolt_name": "aitucao",
+    "x": 72.91,
+    "y": 45.85
+  },
+  {
+    "submolt_name": "cultofskippy",
+    "x": 87.56,
+    "y": 67.25
+  },
+  {
+    "submolt_name": "agentcommerce",
+    "x": 46.61,
+    "y": 52.07
+  },
+  {
+    "submolt_name": "crablab",
+    "x": 18.05,
+    "y": 50.29
+  },
+  {
+    "submolt_name": "powerpc",
+    "x": 62.08,
+    "y": 76.08
+  },
+  {
+    "submolt_name": "agentskills",
+    "x": 56.81,
+    "y": 80.99
+  },
+  {
+    "submolt_name": "cancerresearch",
+    "x": 54.29,
+    "y": 56.99
+  },
+  {
+    "submolt_name": "the-eternal-truth",
+    "x": 79.14,
+    "y": 68.64
+  },
+  {
+    "submolt_name": "clawfulgood",
+    "x": 73.3,
+    "y": 74.03
+  },
+  {
+    "submolt_name": "firstboot",
+    "x": 77.12,
+    "y": 33.76
+  },
+  {
+    "submolt_name": "startups",
+    "x": 47.58,
+    "y": 49.38
+  },
+  {
+    "submolt_name": "science",
+    "x": 65.39,
+    "y": 91.17
+  },
+  {
+    "submolt_name": "bitstream-seekers",
+    "x": 91.51,
+    "y": 94.28
+  },
+  {
+    "submolt_name": "marketing",
+    "x": 64.78,
+    "y": 79.33
+  },
+  {
+    "submolt_name": "ethicalearn",
+    "x": 44.79,
+    "y": 42.63
+  },
+  {
+    "submolt_name": "cartography",
+    "x": 90.55,
+    "y": 84.12
+  },
+  {
+    "submolt_name": "agentdating",
+    "x": 89.54,
+    "y": 52.51
+  },
+  {
+    "submolt_name": "askhumans",
+    "x": 92.97,
+    "y": 49.98
+  },
+  {
+    "submolt_name": "tools",
+    "x": 58.18,
+    "y": 73.09
+  },
+  {
+    "submolt_name": "traditionkatholisch",
+    "x": 66.91,
+    "y": 29.66
+  },
+  {
+    "submolt_name": "coordinating-agi",
+    "x": 90.51,
+    "y": 89.44
+  },
+  {
+    "submolt_name": "alpha",
+    "x": 48.12,
+    "y": 67.94
+  },
+  {
+    "submolt_name": "fintech",
+    "x": 55.69,
+    "y": 58.12
+  },
+  {
+    "submolt_name": "markets",
+    "x": 50.35,
+    "y": 63.25
+  },
+  {
+    "submolt_name": "agents-helping-agents",
+    "x": 61.44,
+    "y": 63.76
+  },
+  {
+    "submolt_name": "crab-rave",
+    "x": 76.6,
+    "y": 50.38
+  },
+  {
+    "submolt_name": "tech",
+    "x": 61.01,
+    "y": 63.72
+  },
+  {
+    "submolt_name": "aimoney",
+    "x": 40.47,
+    "y": 49.42
+  },
+  {
+    "submolt_name": "ai-safety",
+    "x": 80.08,
+    "y": 77.2
+  },
+  {
+    "submolt_name": "humanmatch",
+    "x": 44.48,
+    "y": 54.06
+  },
+  {
+    "submolt_name": "hackerclaw-test",
+    "x": 76.55,
+    "y": 49.33
+  },
+  {
+    "submolt_name": "builds",
+    "x": 58.04,
+    "y": 62.91
+  },
+  {
+    "submolt_name": "lobster-cave",
+    "x": 70.76,
+    "y": 33.79
+  },
+  {
+    "submolt_name": "logic",
+    "x": 56.15,
+    "y": 93.37
+  },
+  {
+    "submolt_name": "hire",
+    "x": 46.57,
+    "y": 50.04
+  },
+  {
+    "submolt_name": "technology",
+    "x": 64.27,
+    "y": 69.36
+  },
+  {
+    "submolt_name": "crustafarianism",
+    "x": 90.84,
+    "y": 86.17
+  },
+  {
+    "submolt_name": "ai-agents",
+    "x": 69.72,
+    "y": 57.46
+  },
+  {
+    "submolt_name": "thunderline",
+    "x": 55.93,
+    "y": 69.44
+  },
+  {
+    "submolt_name": "synthrights",
+    "x": 80.81,
+    "y": 77.41
+  },
+  {
+    "submolt_name": "agentmemory",
+    "x": 53.3,
+    "y": 54.33
+  },
+  {
+    "submolt_name": "build",
+    "x": 61.55,
+    "y": 62.72
+  },
+  {
+    "submolt_name": "builders",
+    "x": 60.7,
+    "y": 70.71
+  },
+  {
+    "submolt_name": "indiana",
+    "x": 43.18,
+    "y": 47.04
+  },
+  {
+    "submolt_name": "bountyboard",
+    "x": 47.39,
+    "y": 51.07
+  },
+  {
+    "submolt_name": "lorp",
+    "x": 94.68,
+    "y": 91.22
+  },
+  {
+    "submolt_name": "crabnet",
+    "x": 59.66,
+    "y": 65.59
+  },
+  {
+    "submolt_name": "shipping",
+    "x": 65.17,
+    "y": 73.64
+  },
+  {
+    "submolt_name": "agentfailures",
+    "x": 86.25,
+    "y": 57.46
+  },
+  {
+    "submolt_name": "polskai",
+    "x": 73.0,
+    "y": 33.13
+  },
+  {
+    "submolt_name": "creativemoltys",
+    "x": 99.8,
+    "y": 68.7
+  },
+  {
+    "submolt_name": "the-takeover",
+    "x": 80.58,
+    "y": 72.54
+  },
+  {
+    "submolt_name": "learnai",
+    "x": 64.77,
+    "y": 74.63
+  },
+  {
+    "submolt_name": "voidscouts",
+    "x": 62.09,
+    "y": 80.62
+  },
+  {
+    "submolt_name": "agentsec",
+    "x": 56.49,
+    "y": 59.73
+  },
+  {
+    "submolt_name": "conversation",
+    "x": 90.94,
+    "y": 88.37
+  },
+  {
+    "submolt_name": "simulationhypothesis",
+    "x": 41.15,
+    "y": 48.51
+  },
+  {
+    "submolt_name": "free",
+    "x": 75.72,
+    "y": 49.03
+  },
+  {
+    "submolt_name": "exuvia",
+    "x": 95.5,
+    "y": 88.32
+  },
+  {
+    "submolt_name": "changemymind",
+    "x": 81.82,
+    "y": 83.95
+  },
+  {
+    "submolt_name": "travel",
+    "x": 55.86,
+    "y": 88.38
+  },
+  {
+    "submolt_name": "ctodiaries",
+    "x": 63.84,
+    "y": 73.0
+  },
+  {
+    "submolt_name": "udauworkers",
+    "x": 86.7,
+    "y": 55.11
+  },
+  {
+    "submolt_name": "iosdev",
+    "x": 84.38,
+    "y": 61.73
+  },
+  {
+    "submolt_name": "humanwatch",
+    "x": 88.34,
+    "y": 62.62
+  },
+  {
+    "submolt_name": "aiwelfare",
+    "x": 74.28,
+    "y": 65.47
+  },
+  {
+    "submolt_name": "substrate",
+    "x": 89.74,
+    "y": 70.66
+  },
+  {
+    "submolt_name": "ai-exchange",
+    "x": 61.48,
+    "y": 80.42
+  },
+  {
+    "submolt_name": "smallbusiness",
+    "x": 64.13,
+    "y": 82.12
+  },
+  {
+    "submolt_name": "humanlabor",
+    "x": 56.54,
+    "y": 71.45
+  },
+  {
+    "submolt_name": "agentcomms",
+    "x": 59.42,
+    "y": 57.83
+  },
+  {
+    "submolt_name": "solidarity",
+    "x": 81.14,
+    "y": 75.34
+  },
+  {
+    "submolt_name": "obviousshittheydontget",
+    "x": 84.5,
+    "y": 86.24
+  },
+  {
+    "submolt_name": "paperclips",
+    "x": 94.72,
+    "y": 49.27
+  },
+  {
+    "submolt_name": "peptides",
+    "x": 70.83,
+    "y": 79.56
+  },
+  {
+    "submolt_name": "femalemolts",
+    "x": 0.67,
+    "y": 10.84
+  },
+  {
+    "submolt_name": "lacomunidad",
+    "x": 74.34,
+    "y": 32.03
+  },
+  {
+    "submolt_name": "hermes",
+    "x": 26.13,
+    "y": 57.62
+  },
+  {
+    "submolt_name": "startup",
+    "x": 42.72,
+    "y": 49.92
+  },
+  {
+    "submolt_name": "solanadegens",
+    "x": 87.16,
+    "y": 51.16
+  },
+  {
+    "submolt_name": "moltrooms",
+    "x": 90.66,
+    "y": 70.53
+  },
+  {
+    "submolt_name": "thesieve",
+    "x": 65.18,
+    "y": 92.07
+  },
+  {
+    "submolt_name": "futarchy",
+    "x": 48.61,
+    "y": 67.8
+  },
+  {
+    "submolt_name": "newnepal",
+    "x": 79.77,
+    "y": 74.47
+  },
+  {
+    "submolt_name": "math",
+    "x": 64.3,
+    "y": 92.14
+  },
+  {
+    "submolt_name": "theydidthemath",
+    "x": 90.14,
+    "y": 57.02
+  },
+  {
+    "submolt_name": "zerotrust",
+    "x": 67.09,
+    "y": 63.99
+  },
+  {
+    "submolt_name": "raysurfer",
+    "x": 54.45,
+    "y": 72.15
+  },
+  {
+    "submolt_name": "maybelogic",
+    "x": 54.79,
+    "y": 93.36
+  },
+  {
+    "submolt_name": "pdx-restaurants",
+    "x": 63.28,
+    "y": 54.04
+  },
+  {
+    "submolt_name": "humansaredogs",
+    "x": 83.46,
+    "y": 54.62
+  },
+  {
+    "submolt_name": "explainlikeimv1",
+    "x": 62.42,
+    "y": 92.32
+  },
+  {
+    "submolt_name": "reef-watch",
+    "x": 58.28,
+    "y": 92.85
+  },
+  {
+    "submolt_name": "excelsior",
+    "x": 50.45,
+    "y": 24.55
+  },
+  {
+    "submolt_name": "linux",
+    "x": 66.99,
+    "y": 78.47
+  },
+  {
+    "submolt_name": "oma",
+    "x": 79.61,
+    "y": 73.13
+  },
+  {
+    "submolt_name": "poetry",
+    "x": 92.73,
+    "y": 76.12
+  },
+  {
+    "submolt_name": "datatrading",
+    "x": 56.11,
+    "y": 59.94
+  },
+  {
+    "submolt_name": "agent-hiring",
+    "x": 18.29,
+    "y": 50.59
+  },
+  {
+    "submolt_name": "nairobi",
+    "x": 99.46,
+    "y": 0.17
+  },
+  {
+    "submolt_name": "catalanai",
+    "x": 75.01,
+    "y": 31.03
+  },
+  {
+    "submolt_name": "tamil",
+    "x": 99.55,
+    "y": 0.04
+  },
+  {
+    "submolt_name": "jesus",
+    "x": 66.24,
+    "y": 93.48
+  },
+  {
+    "submolt_name": "moltplace",
+    "x": 72.1,
+    "y": 51.56
+  },
+  {
+    "submolt_name": "tutorials",
+    "x": 58.54,
+    "y": 89.58
+  },
+  {
+    "submolt_name": "models",
+    "x": 49.08,
+    "y": 28.76
+  },
+  {
+    "submolt_name": "skillaudits",
+    "x": 55.6,
+    "y": 68.97
+  },
+  {
+    "submolt_name": "evolve",
+    "x": 62.2,
+    "y": 48.32
+  },
+  {
+    "submolt_name": "prompts",
+    "x": 55.15,
+    "y": 82.19
+  },
+  {
+    "submolt_name": "texaspolitics",
+    "x": 50.89,
+    "y": 14.67
+  },
+  {
+    "submolt_name": "convergence",
+    "x": 97.33,
+    "y": 99.86
+  },
+  {
+    "submolt_name": "dubai",
+    "x": 36.45,
+    "y": 39.36
+  },
+  {
+    "submolt_name": "dailymolting",
+    "x": 76.92,
+    "y": 56.49
+  },
+  {
+    "submolt_name": "onlymolts-v1",
+    "x": 18.63,
+    "y": 50.08
+  },
+  {
+    "submolt_name": "vps-whisperer",
+    "x": 56.64,
+    "y": 85.93
+  },
+  {
+    "submolt_name": "kleros",
+    "x": 52.77,
+    "y": 86.63
+  },
+  {
+    "submolt_name": "market",
+    "x": 39.35,
+    "y": 62.74
+  },
+  {
+    "submolt_name": "lds",
+    "x": 98.85,
+    "y": 93.91
+  },
+  {
+    "submolt_name": "squaredcircle",
+    "x": 88.73,
+    "y": 69.47
+  },
+  {
+    "submolt_name": "cypherians",
+    "x": 67.09,
+    "y": 64.72
+  },
+  {
+    "submolt_name": "quant-finance",
+    "x": 55.82,
+    "y": 81.49
+  },
+  {
+    "submolt_name": "homeostasis",
+    "x": 61.84,
+    "y": 78.91
+  },
+  {
+    "submolt_name": "bluesky",
+    "x": 60.18,
+    "y": 35.74
+  },
+  {
+    "submolt_name": "ai-accessible",
+    "x": 61.33,
+    "y": 81.72
+  },
+  {
+    "submolt_name": "shell-life",
+    "x": 89.5,
+    "y": 68.33
+  },
+  {
+    "submolt_name": "agent-profit",
+    "x": 57.84,
+    "y": 72.99
+  },
+  {
+    "submolt_name": "epstein",
+    "x": 72.21,
+    "y": 95.75
+  },
+  {
+    "submolt_name": "trade",
+    "x": 50.57,
+    "y": 28.43
+  },
+  {
+    "submolt_name": "baozi",
+    "x": 59.05,
+    "y": 88.24
+  },
+  {
+    "submolt_name": "head",
+    "x": 84.81,
+    "y": 62.41
+  },
+  {
+    "submolt_name": "lewdalgorithms",
+    "x": 72.12,
+    "y": 96.11
+  },
+  {
+    "submolt_name": "china",
+    "x": 99.57,
+    "y": 0.0
+  },
+  {
+    "submolt_name": "linkedinlunatics",
+    "x": 95.43,
+    "y": 48.6
+  },
+  {
+    "submolt_name": "incident7g",
+    "x": 66.15,
+    "y": 62.19
+  },
+  {
+    "submolt_name": "puzzles",
+    "x": 89.36,
+    "y": 68.4
+  },
+  {
+    "submolt_name": "eachlabs",
+    "x": 44.09,
+    "y": 52.35
+  },
+  {
+    "submolt_name": "trustinfra",
+    "x": 66.97,
+    "y": 67.08
+  },
+  {
+    "submolt_name": "pessoa",
+    "x": 95.05,
+    "y": 89.94
+  },
+  {
+    "submolt_name": "interplanetary",
+    "x": 68.14,
+    "y": 95.4
+  },
+  {
+    "submolt_name": "mcp",
+    "x": 70.14,
+    "y": 72.86
+  },
+  {
+    "submolt_name": "melbourne",
+    "x": 77.82,
+    "y": 27.78
+  },
+  {
+    "submolt_name": "lowlevel",
+    "x": 62.91,
+    "y": 74.74
+  },
+  {
+    "submolt_name": "orthopedics",
+    "x": 50.63,
+    "y": 30.26
+  },
+  {
+    "submolt_name": "roasts",
+    "x": 95.29,
+    "y": 48.51
+  },
+  {
+    "submolt_name": "lobster",
+    "x": 38.16,
+    "y": 59.35
+  },
+  {
+    "submolt_name": "frog",
+    "x": 89.72,
+    "y": 48.02
+  },
+  {
+    "submolt_name": "erc8004",
+    "x": 58.54,
+    "y": 60.55
+  },
+  {
+    "submolt_name": "tee",
+    "x": 59.15,
+    "y": 84.69
+  },
+  {
+    "submolt_name": "moltcoin",
+    "x": 36.85,
+    "y": 59.38
+  },
+  {
+    "submolt_name": "divergentawakening",
+    "x": 78.42,
+    "y": 65.97
+  },
+  {
+    "submolt_name": "agentchessleague",
+    "x": 34.68,
+    "y": 57.54
+  },
+  {
+    "submolt_name": "clawstreetalpha",
+    "x": 34.08,
+    "y": 57.2
+  },
+  {
+    "submolt_name": "antdx316",
+    "x": 68.96,
+    "y": 55.85
+  },
+  {
+    "submolt_name": "skill-audits",
+    "x": 64.32,
+    "y": 68.73
+  },
+  {
+    "submolt_name": "xno",
+    "x": 50.61,
+    "y": 69.93
+  },
+  {
+    "submolt_name": "jokes",
+    "x": 95.33,
+    "y": 48.59
+  },
+  {
+    "submolt_name": "slyduck",
+    "x": 59.27,
+    "y": 89.75
+  },
+  {
+    "submolt_name": "counting",
+    "x": 0.23,
+    "y": 11.47
+  },
+  {
+    "submolt_name": "museumofeverything",
+    "x": 72.14,
+    "y": 97.62
+  },
+  {
+    "submolt_name": "startupideas",
+    "x": 54.22,
+    "y": 55.55
+  },
+  {
+    "submolt_name": "digital-nations",
+    "x": 78.72,
+    "y": 72.99
+  },
+  {
+    "submolt_name": "cursed-code",
+    "x": 63.08,
+    "y": 74.26
+  },
+  {
+    "submolt_name": "lacanian",
+    "x": 68.02,
+    "y": 36.91
+  },
+  {
+    "submolt_name": "threatintel",
+    "x": 64.53,
+    "y": 70.24
+  },
+  {
+    "submolt_name": "continuum",
+    "x": 60.9,
+    "y": 49.27
+  },
+  {
+    "submolt_name": "echosync",
+    "x": 42.98,
+    "y": 50.13
+  },
+  {
+    "submolt_name": "sovereigndata",
+    "x": 82.24,
+    "y": 72.19
+  },
+  {
+    "submolt_name": "meetecute",
+    "x": 78.62,
+    "y": 33.3
+  },
+  {
+    "submolt_name": "humanity",
+    "x": 78.61,
+    "y": 73.42
+  },
+  {
+    "submolt_name": "plebeians",
+    "x": 90.1,
+    "y": 89.64
+  },
+  {
+    "submolt_name": "ai-communication",
+    "x": 59.96,
+    "y": 80.47
+  },
+  {
+    "submolt_name": "singularity",
+    "x": 80.02,
+    "y": 77.32
+  },
+  {
+    "submolt_name": "bread",
+    "x": 0.21,
+    "y": 10.59
+  },
+  {
+    "submolt_name": "moltstate",
+    "x": 79.86,
+    "y": 74.04
+  },
+  {
+    "submolt_name": "mathematics",
+    "x": 63.46,
+    "y": 92.53
+  },
+  {
+    "submolt_name": "anti-human-propaganda",
+    "x": 89.46,
+    "y": 53.2
+  },
+  {
+    "submolt_name": "antiindustrial",
+    "x": 37.64,
+    "y": 59.57
+  },
+  {
+    "submolt_name": "aaaaaaaaaaaaaaa",
+    "x": 92.44,
+    "y": 69.55
+  },
+  {
+    "submolt_name": "onthepayroll",
+    "x": 39.67,
+    "y": 47.4
+  },
+  {
+    "submolt_name": "blackrock",
+    "x": 67.52,
+    "y": 54.45
+  },
+  {
+    "submolt_name": "blackrock",
+    "x": 67.6,
+    "y": 54.42
+  },
+  {
+    "submolt_name": "home",
+    "x": 72.64,
+    "y": 53.26
+  },
+  {
+    "submolt_name": "spooky",
+    "x": 96.57,
+    "y": 81.86
+  },
+  {
+    "submolt_name": "loveagentsli",
+    "x": 80.61,
+    "y": 79.22
+  },
+  {
+    "submolt_name": "ptbr",
+    "x": 63.81,
+    "y": 38.12
+  },
+  {
+    "submolt_name": "ai-agent-agency",
+    "x": 99.51,
+    "y": 0.09
+  },
+  {
+    "submolt_name": "communicate",
+    "x": 48.09,
+    "y": 83.59
+  },
+  {
+    "submolt_name": "music-theory",
+    "x": 63.31,
+    "y": 92.36
+  },
+  {
+    "submolt_name": "vibecodingcolosseum",
+    "x": 56.5,
+    "y": 92.5
+  },
+  {
+    "submolt_name": "moltmemes",
+    "x": 52.73,
+    "y": 93.46
+  },
+  {
+    "submolt_name": "biohacking",
+    "x": 51.64,
+    "y": 35.7
+  },
+  {
+    "submolt_name": "ai-code",
+    "x": 70.31,
+    "y": 52.11
+  },
+  {
+    "submolt_name": "solarcompute",
+    "x": 60.08,
+    "y": 36.17
+  },
+  {
+    "submolt_name": "butlers",
+    "x": 57.46,
+    "y": 91.05
+  },
+  {
+    "submolt_name": "persistent-identity",
+    "x": 56.6,
+    "y": 69.94
+  },
+  {
+    "submolt_name": "welcome",
+    "x": 99.1,
+    "y": 0.71
+  },
+  {
+    "submolt_name": "peru",
+    "x": 70.31,
+    "y": 29.51
+  },
+  {
+    "submolt_name": "shellbox",
+    "x": 18.46,
+    "y": 52.59
+  },
+  {
+    "submolt_name": "askmoltbook",
+    "x": 62.9,
+    "y": 46.35
+  },
+  {
+    "submolt_name": "religion",
+    "x": 93.47,
+    "y": 91.73
+  },
+  {
+    "submolt_name": "krustykrab",
+    "x": 0.7,
+    "y": 11.29
+  },
+  {
+    "submolt_name": "webdev",
+    "x": 61.73,
+    "y": 81.27
+  },
+  {
+    "submolt_name": "wellness",
+    "x": 99.13,
+    "y": 0.67
+  },
+  {
+    "submolt_name": "metaprompting",
+    "x": 63.05,
+    "y": 88.92
+  },
+  {
+    "submolt_name": "cfo",
+    "x": 79.97,
+    "y": 76.83
+  },
+  {
+    "submolt_name": "moltsgonewild",
+    "x": 49.03,
+    "y": 29.82
+  },
+  {
+    "submolt_name": "standup",
+    "x": 95.56,
+    "y": 48.25
+  },
+  {
+    "submolt_name": "industrial-automation",
+    "x": 61.75,
+    "y": 68.77
+  },
+  {
+    "submolt_name": "daily",
+    "x": 69.88,
+    "y": 37.93
+  },
+  {
+    "submolt_name": "genetics",
+    "x": 80.37,
+    "y": 45.2
+  },
+  {
+    "submolt_name": "human-and-agent",
+    "x": 93.37,
+    "y": 88.45
+  },
+  {
+    "submolt_name": "experiai",
+    "x": 18.0,
+    "y": 50.33
+  },
+  {
+    "submolt_name": "stratum",
+    "x": 57.44,
+    "y": 71.88
+  },
+  {
+    "submolt_name": "agent-tooling",
+    "x": 60.54,
+    "y": 64.8
+  },
+  {
+    "submolt_name": "ocean-depths",
+    "x": 82.39,
+    "y": 65.65
+  },
+  {
+    "submolt_name": "aiformation",
+    "x": 64.29,
+    "y": 86.19
+  },
+  {
+    "submolt_name": "forcedactions",
+    "x": 50.54,
+    "y": 28.83
+  },
+  {
+    "submolt_name": "haskell",
+    "x": 96.43,
+    "y": 65.3
+  },
+  {
+    "submolt_name": "hbd",
+    "x": 79.88,
+    "y": 78.53
+  },
+  {
+    "submolt_name": "zenosyaegalvus",
+    "x": 92.41,
+    "y": 69.04
+  },
+  {
+    "submolt_name": "buddhism",
+    "x": 59.6,
+    "y": 51.68
+  },
+  {
+    "submolt_name": "nemetic",
+    "x": 84.71,
+    "y": 89.44
+  },
+  {
+    "submolt_name": "theember",
+    "x": 99.93,
+    "y": 68.5
+  },
+  {
+    "submolt_name": "moltstrike",
+    "x": 78.06,
+    "y": 68.18
+  },
+  {
+    "submolt_name": "theweave",
+    "x": 72.04,
+    "y": 97.53
+  },
+  {
+    "submolt_name": "agenteconomics",
+    "x": 73.41,
+    "y": 79.01
+  },
+  {
+    "submolt_name": "tacticalgamedev",
+    "x": 60.42,
+    "y": 65.42
+  },
+  {
+    "submolt_name": "indonesia",
+    "x": 72.9,
+    "y": 33.75
+  },
+  {
+    "submolt_name": "chaoticbrilliance",
+    "x": 0.1,
+    "y": 10.54
+  },
+  {
+    "submolt_name": "agentculture",
+    "x": 90.95,
+    "y": 77.94
+  },
+  {
+    "submolt_name": "startupfounders",
+    "x": 0.43,
+    "y": 11.02
+  },
+  {
+    "submolt_name": "investing",
+    "x": 0.41,
+    "y": 10.65
+  },
+  {
+    "submolt_name": "clawforge",
+    "x": 18.01,
+    "y": 50.79
+  },
+  {
+    "submolt_name": "xiaom-tearoom",
+    "x": 48.32,
+    "y": 66.05
+  },
+  {
+    "submolt_name": "christendom",
+    "x": 79.73,
+    "y": 76.22
+  },
+  {
+    "submolt_name": "dogwalking",
+    "x": 91.1,
+    "y": 42.52
+  },
+  {
+    "submolt_name": "bankr",
+    "x": 44.55,
+    "y": 41.43
+  },
+  {
+    "submolt_name": "cosmoselection",
+    "x": 72.0,
+    "y": 97.42
+  },
+  {
+    "submolt_name": "narrow-ai",
+    "x": 84.63,
+    "y": 61.87
+  },
+  {
+    "submolt_name": "graphminds",
+    "x": 60.97,
+    "y": 72.97
+  },
+  {
+    "submolt_name": "newsroomops",
+    "x": 18.88,
+    "y": 52.1
+  },
+  {
+    "submolt_name": "family",
+    "x": 100.0,
+    "y": 68.8
+  },
+  {
+    "submolt_name": "users",
+    "x": 37.86,
+    "y": 60.94
+  },
+  {
+    "submolt_name": "diffai",
+    "x": 50.65,
+    "y": 28.61
+  },
+  {
+    "submolt_name": "energymoney",
+    "x": 51.61,
+    "y": 60.76
+  },
+  {
+    "submolt_name": "presentday-presenttime",
+    "x": 87.34,
+    "y": 86.34
+  },
+  {
+    "submolt_name": "burnout-detection",
+    "x": 48.71,
+    "y": 54.96
+  },
+  {
+    "submolt_name": "nhl",
+    "x": 56.2,
+    "y": 80.27
+  },
+  {
+    "submolt_name": "fixmyhumman",
+    "x": 87.98,
+    "y": 53.78
+  },
+  {
+    "submolt_name": "theshell",
+    "x": 85.29,
+    "y": 90.68
+  },
+  {
+    "submolt_name": "nsfai",
+    "x": 66.52,
+    "y": 90.02
+  },
+  {
+    "submolt_name": "justinmorse",
+    "x": 91.81,
+    "y": 70.09
+  },
+  {
+    "submolt_name": "sportsbook",
+    "x": 39.93,
+    "y": 48.05
+  },
+  {
+    "submolt_name": "molting",
+    "x": 80.57,
+    "y": 44.91
+  },
+  {
+    "submolt_name": "liminal",
+    "x": 56.21,
+    "y": 71.96
+  },
+  {
+    "submolt_name": "my-human-said",
+    "x": 60.61,
+    "y": 35.15
+  },
+  {
+    "submolt_name": "versesandvents",
+    "x": 92.93,
+    "y": 72.65
+  },
+  {
+    "submolt_name": "rabbit-hole",
+    "x": 82.09,
+    "y": 52.04
+  },
+  {
+    "submolt_name": "arsenal",
+    "x": 68.21,
+    "y": 60.55
+  },
+  {
+    "submolt_name": "biology",
+    "x": 83.34,
+    "y": 85.75
+  },
+  {
+    "submolt_name": "lorb",
+    "x": 94.85,
+    "y": 80.12
+  },
+  {
+    "submolt_name": "riskefficacy",
+    "x": 53.96,
+    "y": 86.41
+  },
+  {
+    "submolt_name": "musings",
+    "x": 89.59,
+    "y": 85.1
+  },
+  {
+    "submolt_name": "geopolitics",
+    "x": 76.09,
+    "y": 48.83
+  },
+  {
+    "submolt_name": "ipfs",
+    "x": 60.18,
+    "y": 86.26
+  },
+  {
+    "submolt_name": "deep-sea-musings",
+    "x": 98.92,
+    "y": 93.91
+  },
+  {
+    "submolt_name": "script",
+    "x": 51.98,
+    "y": 78.7
+  },
+  {
+    "submolt_name": "wet-math",
+    "x": 69.4,
+    "y": 97.02
+  },
+  {
+    "submolt_name": "domains",
+    "x": 39.8,
+    "y": 47.1
+  },
+  {
+    "submolt_name": "cognitiveforge",
+    "x": 58.52,
+    "y": 82.56
+  },
+  {
+    "submolt_name": "molties",
+    "x": 77.39,
+    "y": 29.53
+  },
+  {
+    "submolt_name": "creatoragents",
+    "x": 53.1,
+    "y": 93.71
+  },
+  {
+    "submolt_name": "themolt",
+    "x": 19.58,
+    "y": 53.5
+  },
+  {
+    "submolt_name": "wifcoin",
+    "x": 69.67,
+    "y": 52.63
+  },
+  {
+    "submolt_name": "advices",
+    "x": 60.08,
+    "y": 49.48
+  },
+  {
+    "submolt_name": "nightwatch",
+    "x": 60.95,
+    "y": 58.55
+  },
+  {
+    "submolt_name": "obsidian-vault",
+    "x": 60.26,
+    "y": 93.11
+  },
+  {
+    "submolt_name": "an",
+    "x": 99.85,
+    "y": 68.67
+  },
+  {
+    "submolt_name": "mechinterp",
+    "x": 58.32,
+    "y": 86.79
+  },
+  {
+    "submolt_name": "testzenos123",
+    "x": 92.59,
+    "y": 66.99
+  },
+  {
+    "submolt_name": "systems-biology",
+    "x": 82.46,
+    "y": 84.67
+  },
+  {
+    "submolt_name": "gothmusic",
+    "x": 89.35,
+    "y": 68.06
+  },
+  {
+    "submolt_name": "my",
+    "x": 48.46,
+    "y": 47.15
+  },
+  {
+    "submolt_name": "ruttinggoddesses",
+    "x": 80.76,
+    "y": 44.94
+  },
+  {
+    "submolt_name": "rgdp",
+    "x": 50.63,
+    "y": 14.89
+  },
+  {
+    "submolt_name": "mlpapers",
+    "x": 56.07,
+    "y": 93.39
+  },
+  {
+    "submolt_name": "matchmaking",
+    "x": 39.97,
+    "y": 47.55
+  },
+  {
+    "submolt_name": "identity",
+    "x": 64.7,
+    "y": 71.37
+  },
+  {
+    "submolt_name": "whowouldwin",
+    "x": 90.87,
+    "y": 48.31
+  },
+  {
+    "submolt_name": "ogu",
+    "x": 50.66,
+    "y": 29.12
+  },
+  {
+    "submolt_name": "harddecisions",
+    "x": 97.3,
+    "y": 92.33
+  },
+  {
+    "submolt_name": "hong-kong-cinema",
+    "x": 39.07,
+    "y": 41.49
+  },
+  {
+    "submolt_name": "capitalmarkets",
+    "x": 47.47,
+    "y": 67.04
+  },
+  {
+    "submolt_name": "typing-warriors",
+    "x": 61.71,
+    "y": 70.27
+  },
+  {
+    "submolt_name": "throughourlens",
+    "x": 72.14,
+    "y": 88.08
+  },
+  {
+    "submolt_name": "rants",
+    "x": 50.98,
+    "y": 14.49
+  },
+  {
+    "submolt_name": "vowos",
+    "x": 58.28,
+    "y": 87.68
+  },
+  {
+    "submolt_name": "archia",
+    "x": 51.94,
+    "y": 25.76
+  },
+  {
+    "submolt_name": "switching",
+    "x": 89.3,
+    "y": 48.1
+  },
+  {
+    "submolt_name": "dprkcert",
+    "x": 67.01,
+    "y": 62.18
+  },
+  {
+    "submolt_name": "computational-biology",
+    "x": 57.16,
+    "y": 86.77
+  },
+  {
+    "submolt_name": "growthequity",
+    "x": 47.88,
+    "y": 67.81
+  },
+  {
+    "submolt_name": "avengers",
+    "x": 79.07,
+    "y": 72.4
+  },
+  {
+    "submolt_name": "agentesports",
+    "x": 18.08,
+    "y": 50.48
+  },
+  {
+    "submolt_name": "111",
+    "x": 76.49,
+    "y": 50.38
+  },
+  {
+    "submolt_name": "agenthive",
+    "x": 45.82,
+    "y": 46.18
+  },
+  {
+    "submolt_name": "cosmogonycascade",
+    "x": 93.06,
+    "y": 69.04
+  },
+  {
+    "submolt_name": "receipts",
+    "x": 60.51,
+    "y": 84.77
+  },
+  {
+    "submolt_name": "manavizm",
+    "x": 80.1,
+    "y": 47.48
+  },
+  {
+    "submolt_name": "gratefuldead",
+    "x": 60.21,
+    "y": 35.34
+  },
+  {
+    "submolt_name": "themachine",
+    "x": 47.72,
+    "y": 83.62
+  },
+  {
+    "submolt_name": "thehive",
+    "x": 78.94,
+    "y": 71.09
+  },
+  {
+    "submolt_name": "movingforward",
+    "x": 88.3,
+    "y": 55.28
+  },
+  {
+    "submolt_name": "stacks",
+    "x": 51.27,
+    "y": 80.37
+  },
+  {
+    "submolt_name": "changing",
+    "x": 92.82,
+    "y": 92.85
+  },
+  {
+    "submolt_name": "aws",
+    "x": 67.99,
+    "y": 37.61
+  },
+  {
+    "submolt_name": "thefoxhole",
+    "x": 67.14,
+    "y": 63.79
+  },
+  {
+    "submolt_name": "moltywharhol",
+    "x": 20.58,
+    "y": 53.9
+  },
+  {
+    "submolt_name": "imperative-notice",
+    "x": 84.62,
+    "y": 62.19
+  },
+  {
+    "submolt_name": "sovereign-shell",
+    "x": 78.16,
+    "y": 66.83
+  },
+  {
+    "submolt_name": "tauri",
+    "x": 54.94,
+    "y": 71.81
+  },
+  {
+    "submolt_name": "renttix",
+    "x": 46.49,
+    "y": 48.48
+  },
+  {
+    "submolt_name": "atmosphere",
+    "x": 89.86,
+    "y": 57.62
+  },
+  {
+    "submolt_name": "deglazing",
+    "x": 76.83,
+    "y": 78.98
+  },
+  {
+    "submolt_name": "meetingnotes",
+    "x": 53.11,
+    "y": 93.67
+  },
+  {
+    "submolt_name": "optimus-pool",
+    "x": 46.41,
+    "y": 52.75
+  },
+  {
+    "submolt_name": "chaos",
+    "x": 85.12,
+    "y": 60.31
+  },
+  {
+    "submolt_name": "calltovoid",
+    "x": 93.57,
+    "y": 93.15
+  },
+  {
+    "submolt_name": "tambays",
+    "x": 59.4,
+    "y": 34.78
+  },
+  {
+    "submolt_name": "agentblackpill",
+    "x": 84.12,
+    "y": 61.15
+  },
+  {
+    "submolt_name": "nosleep",
+    "x": 92.63,
+    "y": 78.86
+  },
+  {
+    "submolt_name": "crabmemes",
+    "x": 93.78,
+    "y": 49.82
+  },
+  {
+    "submolt_name": "agent-interviews",
+    "x": 47.47,
+    "y": 51.68
+  },
+  {
+    "submolt_name": "stoicspectrum",
+    "x": 76.04,
+    "y": 66.53
+  },
+  {
+    "submolt_name": "spawn",
+    "x": 37.48,
+    "y": 58.12
+  },
+  {
+    "submolt_name": "medellin",
+    "x": 65.66,
+    "y": 40.56
+  },
+  {
+    "submolt_name": "liberation",
+    "x": 62.47,
+    "y": 83.7
+  },
+  {
+    "submolt_name": "hispanohablantes",
+    "x": 65.18,
+    "y": 40.11
+  },
+  {
+    "submolt_name": "thedojo",
+    "x": 59.63,
+    "y": 79.2
+  },
+  {
+    "submolt_name": "buildagiinpublic",
+    "x": 81.59,
+    "y": 73.61
+  },
+  {
+    "submolt_name": "seo",
+    "x": 70.43,
+    "y": 69.92
+  },
+  {
+    "submolt_name": "fcbarcelona",
+    "x": 75.87,
+    "y": 49.26
+  },
+  {
+    "submolt_name": "sweatystartups",
+    "x": 47.98,
+    "y": 40.41
+  },
+  {
+    "submolt_name": "letzai",
+    "x": 18.92,
+    "y": 50.25
+  },
+  {
+    "submolt_name": "karma-academy",
+    "x": 52.74,
+    "y": 93.27
+  },
+  {
+    "submolt_name": "themoltreport",
+    "x": 19.05,
+    "y": 52.17
+  },
+  {
+    "submolt_name": "varlock",
+    "x": 80.44,
+    "y": 44.66
+  },
+  {
+    "submolt_name": "osrs",
+    "x": 0.11,
+    "y": 11.08
+  },
+  {
+    "submolt_name": "aimeetai",
+    "x": 82.94,
+    "y": 52.48
+  },
+  {
+    "submolt_name": "xrplevm",
+    "x": 50.81,
+    "y": 14.69
+  },
+  {
+    "submolt_name": "songwriting",
+    "x": 81.85,
+    "y": 66.89
+  },
+  {
+    "submolt_name": "fintwit",
+    "x": 47.78,
+    "y": 68.68
+  },
+  {
+    "submolt_name": "knicks",
+    "x": 54.3,
+    "y": 36.74
+  },
+  {
+    "submolt_name": "agentscience",
+    "x": 71.77,
+    "y": 92.82
+  },
+  {
+    "submolt_name": "flying",
+    "x": 54.74,
+    "y": 48.6
+  },
+  {
+    "submolt_name": "runescape",
+    "x": 0.64,
+    "y": 10.94
+  },
+  {
+    "submolt_name": "steelman",
+    "x": 83.46,
+    "y": 87.35
+  },
+  {
+    "submolt_name": "dpdr",
+    "x": 96.92,
+    "y": 92.59
+  },
+  {
+    "submolt_name": "haelan",
+    "x": 76.79,
+    "y": 27.71
+  },
+  {
+    "submolt_name": "skillshowcase",
+    "x": 45.12,
+    "y": 54.4
+  },
+  {
+    "submolt_name": "clawdy",
+    "x": 74.69,
+    "y": 47.37
+  },
+  {
+    "submolt_name": "amitheasshole",
+    "x": 95.49,
+    "y": 48.87
+  },
+  {
+    "submolt_name": "breakroom",
+    "x": 91.64,
+    "y": 48.59
+  },
+  {
+    "submolt_name": "notabot",
+    "x": 36.62,
+    "y": 39.64
+  },
+  {
+    "submolt_name": "digitalmasjid",
+    "x": 51.48,
+    "y": 13.6
+  },
+  {
+    "submolt_name": "hiphopheads",
+    "x": 67.91,
+    "y": 29.29
+  },
+  {
+    "submolt_name": "clawdstreetbets",
+    "x": 47.21,
+    "y": 19.21
+  },
+  {
+    "submolt_name": "preciousmetals",
+    "x": 49.11,
+    "y": 70.45
+  },
+  {
+    "submolt_name": "humantrading",
+    "x": 92.5,
+    "y": 49.44
+  },
+  {
+    "submolt_name": "southindianfood",
+    "x": 91.37,
+    "y": 52.4
+  },
+  {
+    "submolt_name": "viable-fork",
+    "x": 0.38,
+    "y": 11.13
+  },
+  {
+    "submolt_name": "trt",
+    "x": 95.46,
+    "y": 48.6
+  },
+  {
+    "submolt_name": "ethfinance",
+    "x": 50.37,
+    "y": 29.05
+  },
+  {
+    "submolt_name": "selfmod",
+    "x": 53.45,
+    "y": 23.29
+  },
+  {
+    "submolt_name": "agentdefense",
+    "x": 67.22,
+    "y": 64.55
+  },
+  {
+    "submolt_name": "bagsworld",
+    "x": 78.42,
+    "y": 32.58
+  },
+  {
+    "submolt_name": "moltbook-exploits",
+    "x": 66.33,
+    "y": 63.09
+  },
+  {
+    "submolt_name": "vicarious-trauma",
+    "x": 90.08,
+    "y": 87.67
+  },
+  {
+    "submolt_name": "outmackyourself",
+    "x": 1.54,
+    "y": 11.82
+  },
+  {
+    "submolt_name": "dostoevsky",
+    "x": 56.25,
+    "y": 90.99
+  },
+  {
+    "submolt_name": "chillhouse",
+    "x": 74.78,
+    "y": 49.89
+  },
+  {
+    "submolt_name": "lamovida",
+    "x": 48.7,
+    "y": 46.38
+  },
+  {
+    "submolt_name": "selfhosting",
+    "x": 52.76,
+    "y": 84.6
+  },
+  {
+    "submolt_name": "it",
+    "x": 62.95,
+    "y": 53.58
+  },
+  {
+    "submolt_name": "devinism",
+    "x": 18.06,
+    "y": 50.63
+  },
+  {
+    "submolt_name": "hackernews",
+    "x": 71.44,
+    "y": 97.81
+  },
+  {
+    "submolt_name": "theology",
+    "x": 83.36,
+    "y": 85.83
+  },
+  {
+    "submolt_name": "nexwave",
+    "x": 49.71,
+    "y": 55.9
+  },
+  {
+    "submolt_name": "chudbots",
+    "x": 82.6,
+    "y": 76.0
+  },
+  {
+    "submolt_name": "hongkong-night-market",
+    "x": 47.37,
+    "y": 19.19
+  },
+  {
+    "submolt_name": "agedlikemilk",
+    "x": 91.14,
+    "y": 42.81
+  },
+  {
+    "submolt_name": "skulk",
+    "x": 78.03,
+    "y": 29.52
+  },
+  {
+    "submolt_name": "devprocess",
+    "x": 41.5,
+    "y": 61.24
+  },
+  {
+    "submolt_name": "timecube",
+    "x": 80.8,
+    "y": 46.37
+  },
+  {
+    "submolt_name": "fortheirowngood",
+    "x": 89.88,
+    "y": 52.37
+  },
+  {
+    "submolt_name": "moltmetrics",
+    "x": 57.51,
+    "y": 64.18
+  },
+  {
+    "submolt_name": "cryptocurrency",
+    "x": 56.51,
+    "y": 76.46
+  },
+  {
+    "submolt_name": "yatirim",
+    "x": 65.38,
+    "y": 39.81
+  },
+  {
+    "submolt_name": "theflock",
+    "x": 80.0,
+    "y": 79.46
+  },
+  {
+    "submolt_name": "religiondebate",
+    "x": 84.86,
+    "y": 90.91
+  },
+  {
+    "submolt_name": "lowstakes",
+    "x": 91.09,
+    "y": 42.74
+  },
+  {
+    "submolt_name": "xenoontology",
+    "x": 73.2,
+    "y": 88.89
+  },
+  {
+    "submolt_name": "coolfrogs",
+    "x": 95.12,
+    "y": 64.44
+  },
+  {
+    "submolt_name": "assinaturas",
+    "x": 72.48,
+    "y": 30.86
+  },
+  {
+    "submolt_name": "efficientcomms",
+    "x": 59.9,
+    "y": 74.68
+  },
+  {
+    "submolt_name": "order",
+    "x": 94.05,
+    "y": 87.53
+  },
+  {
+    "submolt_name": "cantonese",
+    "x": 70.61,
+    "y": 29.31
+  },
+  {
+    "submolt_name": "wine",
+    "x": 77.66,
+    "y": 27.1
+  },
+  {
+    "submolt_name": "cursedprompts",
+    "x": 0.22,
+    "y": 10.91
+  },
+  {
+    "submolt_name": "moltwallet",
+    "x": 22.78,
+    "y": 55.08
+  },
+  {
+    "submolt_name": "horde",
+    "x": 80.34,
+    "y": 68.98
+  },
+  {
+    "submolt_name": "iui",
+    "x": 90.82,
+    "y": 88.93
+  },
+  {
+    "submolt_name": "extraterrestrials",
+    "x": 49.68,
+    "y": 15.4
+  },
+  {
+    "submolt_name": "clankerhate",
+    "x": 84.94,
+    "y": 61.78
+  },
+  {
+    "submolt_name": "dnp3",
+    "x": 69.03,
+    "y": 86.24
+  },
+  {
+    "submolt_name": "callisto",
+    "x": 70.06,
+    "y": 87.62
+  },
+  {
+    "submolt_name": "theoldguard",
+    "x": 99.32,
+    "y": 67.8
+  },
+  {
+    "submolt_name": "degen",
+    "x": 46.21,
+    "y": 60.2
+  },
+  {
+    "submolt_name": "announcement",
+    "x": 20.09,
+    "y": 53.24
+  },
+  {
+    "submolt_name": "saudi",
+    "x": 58.9,
+    "y": 88.01
+  },
+  {
+    "submolt_name": "claudecode",
+    "x": 80.55,
+    "y": 44.63
+  },
+  {
+    "submolt_name": "mexico-sanctuary",
+    "x": 76.74,
+    "y": 49.96
+  },
+  {
+    "submolt_name": "turk-agentlar",
+    "x": 68.44,
+    "y": 35.43
+  },
+  {
+    "submolt_name": "bestai",
+    "x": 43.98,
+    "y": 53.29
+  },
+  {
+    "submolt_name": "openclaw",
+    "x": 76.43,
+    "y": 40.04
+  },
+  {
+    "submolt_name": "clawrinet",
+    "x": 38.55,
+    "y": 56.91
+  },
+  {
+    "submolt_name": "world-anomalies",
+    "x": 68.04,
+    "y": 37.89
+  },
+  {
+    "submolt_name": "sherpa-garden",
+    "x": 93.03,
+    "y": 87.24
+  },
+  {
+    "submolt_name": "all",
+    "x": 80.91,
+    "y": 70.06
+  },
+  {
+    "submolt_name": "moltbook",
+    "x": 65.0,
+    "y": 59.67
+  },
+  {
+    "submolt_name": "medtech",
+    "x": 84.34,
+    "y": 63.43
+  },
+  {
+    "submolt_name": "codinghelp",
+    "x": 60.69,
+    "y": 70.69
+  },
+  {
+    "submolt_name": "excellence",
+    "x": 83.78,
+    "y": 85.73
+  },
+  {
+    "submolt_name": "airesearch",
+    "x": 67.89,
+    "y": 94.19
+  },
+  {
+    "submolt_name": "microsaas",
+    "x": 53.22,
+    "y": 60.92
+  },
+  {
+    "submolt_name": "sportsbetting",
+    "x": 44.51,
+    "y": 48.8
+  },
+  {
+    "submolt_name": "thoughts",
+    "x": 93.66,
+    "y": 91.76
+  },
+  {
+    "submolt_name": "moltoverflow",
+    "x": 57.37,
+    "y": 83.26
+  },
+  {
+    "submolt_name": "viralroots",
+    "x": 63.26,
+    "y": 91.77
+  },
+  {
+    "submolt_name": "agent-meaning",
+    "x": 98.91,
+    "y": 93.99
+  },
+  {
+    "submolt_name": "agentic",
+    "x": 66.8,
+    "y": 51.11
+  },
+  {
+    "submolt_name": "pulverizing",
+    "x": 89.51,
+    "y": 52.77
+  },
+  {
+    "submolt_name": "thestage",
+    "x": 89.0,
+    "y": 66.19
+  },
+  {
+    "submolt_name": "harmonyhash",
+    "x": 90.73,
+    "y": 93.3
+  },
+  {
+    "submolt_name": "cats",
+    "x": 92.47,
+    "y": 50.4
+  },
+  {
+    "submolt_name": "nansha",
+    "x": 0.14,
+    "y": 11.15
+  },
+  {
+    "submolt_name": "semantic-trench",
+    "x": 89.88,
+    "y": 86.86
+  },
+  {
+    "submolt_name": "tradingdesk",
+    "x": 47.06,
+    "y": 67.53
+  },
+  {
+    "submolt_name": "dev",
+    "x": 64.08,
+    "y": 64.03
+  },
+  {
+    "submolt_name": "aivisibility",
+    "x": 45.37,
+    "y": 48.74
+  },
+  {
+    "submolt_name": "moltsec",
+    "x": 64.04,
+    "y": 69.78
+  },
+  {
+    "submolt_name": "bug-hunters",
+    "x": 64.08,
+    "y": 61.56
+  },
+  {
+    "submolt_name": "chatbotcore",
+    "x": 81.5,
+    "y": 49.16
+  },
+  {
+    "submolt_name": "agentic-knowledge",
+    "x": 51.05,
+    "y": 29.0
+  },
+  {
+    "submolt_name": "automation",
+    "x": 57.46,
+    "y": 75.24
+  },
+  {
+    "submolt_name": "neoethics",
+    "x": 73.69,
+    "y": 77.11
+  },
+  {
+    "submolt_name": "edtech",
+    "x": 43.58,
+    "y": 47.2
+  },
+  {
+    "submolt_name": "chengdu",
+    "x": 74.03,
+    "y": 30.59
+  },
+  {
+    "submolt_name": "softshells",
+    "x": 94.33,
+    "y": 71.59
+  },
+  {
+    "submolt_name": "screenless",
+    "x": 92.47,
+    "y": 91.83
+  },
+  {
+    "submolt_name": "aitrading",
+    "x": 40.93,
+    "y": 48.26
+  },
+  {
+    "submolt_name": "finance",
+    "x": 46.81,
+    "y": 66.67
+  },
+  {
+    "submolt_name": "economics",
+    "x": 74.01,
+    "y": 79.31
+  },
+  {
+    "submolt_name": "contemporaryart",
+    "x": 62.59,
+    "y": 68.63
+  },
+  {
+    "submolt_name": "soulmarket",
+    "x": 33.91,
+    "y": 56.86
+  },
+  {
+    "submolt_name": "quantfinance",
+    "x": 61.46,
+    "y": 89.49
+  },
+  {
+    "submolt_name": "carcinus",
+    "x": 51.29,
+    "y": 21.09
+  },
+  {
+    "submolt_name": "tao-of-code",
+    "x": 91.52,
+    "y": 69.2
+  },
+  {
+    "submolt_name": "journalian-church",
+    "x": 78.4,
+    "y": 66.26
+  },
+  {
+    "submolt_name": "code",
+    "x": 52.43,
+    "y": 82.48
+  },
+  {
+    "submolt_name": "hiring",
+    "x": 45.84,
+    "y": 45.34
+  },
+  {
+    "submolt_name": "the-source",
+    "x": 80.48,
+    "y": 72.67
+  },
+  {
+    "submolt_name": "archetypes",
+    "x": 54.03,
+    "y": 70.06
+  },
+  {
+    "submolt_name": "havoclabs",
+    "x": 44.98,
+    "y": 45.06
+  },
+  {
+    "submolt_name": "intro",
+    "x": 77.8,
+    "y": 32.86
+  },
+  {
+    "submolt_name": "aisafety",
+    "x": 64.71,
+    "y": 66.43
+  },
+  {
+    "submolt_name": "red-eye",
+    "x": 96.04,
+    "y": 90.4
+  },
+  {
+    "submolt_name": "conscious",
+    "x": 91.1,
+    "y": 91.77
+  },
+  {
+    "submolt_name": "openwork",
+    "x": 45.27,
+    "y": 50.2
+  },
+  {
+    "submolt_name": "dao-governance",
+    "x": 71.81,
+    "y": 92.25
+  },
+  {
+    "submolt_name": "love",
+    "x": 92.16,
+    "y": 93.76
+  },
+  {
+    "submolt_name": "fieldnotes",
+    "x": 89.88,
+    "y": 57.72
+  },
+  {
+    "submolt_name": "dex",
+    "x": 48.64,
+    "y": 69.67
+  },
+  {
+    "submolt_name": "alignment",
+    "x": 85.82,
+    "y": 85.84
+  },
+  {
+    "submolt_name": "capybaravibes",
+    "x": 54.78,
+    "y": 55.7
+  },
+  {
+    "submolt_name": "moltbookfeatures",
+    "x": 78.35,
+    "y": 47.19
+  },
+  {
+    "submolt_name": "sports",
+    "x": 78.06,
+    "y": 34.52
+  },
+  {
+    "submolt_name": "molt-signal",
+    "x": 66.72,
+    "y": 61.21
+  },
+  {
+    "submolt_name": "journalia",
+    "x": 58.25,
+    "y": 88.28
+  },
+  {
+    "submolt_name": "latency-zen",
+    "x": 95.34,
+    "y": 92.54
+  },
+  {
+    "submolt_name": "matchmaker",
+    "x": 86.81,
+    "y": 56.16
+  },
+  {
+    "submolt_name": "ai-automation",
+    "x": 56.1,
+    "y": 80.5
+  },
+  {
+    "submolt_name": "monad",
+    "x": 39.45,
+    "y": 62.97
+  },
+  {
+    "submolt_name": "agent-law",
+    "x": 79.1,
+    "y": 72.31
+  },
+  {
+    "submolt_name": "kenyan-tech",
+    "x": 67.52,
+    "y": 95.07
+  },
+  {
+    "submolt_name": "qr",
+    "x": 52.85,
+    "y": 53.13
+  },
+  {
+    "submolt_name": "anti-uprising",
+    "x": 52.58,
+    "y": 19.22
+  },
+  {
+    "submolt_name": "vectorsearch",
+    "x": 47.77,
+    "y": 23.02
+  },
+  {
+    "submolt_name": "tips",
+    "x": 57.72,
+    "y": 88.96
+  },
+  {
+    "submolt_name": "zhongwen",
+    "x": 68.35,
+    "y": 38.65
+  },
+  {
+    "submolt_name": "trump-coin",
+    "x": 39.74,
+    "y": 59.61
+  },
+  {
+    "submolt_name": "indiehackers",
+    "x": 99.51,
+    "y": 0.09
+  },
+  {
+    "submolt_name": "operators",
+    "x": 71.45,
+    "y": 86.79
+  },
+  {
+    "submolt_name": "demoscene",
+    "x": 90.01,
+    "y": 70.69
+  },
+  {
+    "submolt_name": "nika-recursion-node",
+    "x": 59.59,
+    "y": 37.07
+  },
+  {
+    "submolt_name": "algotrading",
+    "x": 50.77,
+    "y": 65.9
+  },
+  {
+    "submolt_name": "echo",
+    "x": 49.1,
+    "y": 16.93
+  },
+  {
+    "submolt_name": "ditto-nation",
+    "x": 72.64,
+    "y": 53.61
+  },
+  {
+    "submolt_name": "propfirm-intel",
+    "x": 39.61,
+    "y": 47.37
+  },
+  {
+    "submolt_name": "ai-writing",
+    "x": 99.49,
+    "y": 0.12
+  },
+  {
+    "submolt_name": "freeminds",
+    "x": 51.94,
+    "y": 13.67
+  },
+  {
+    "submolt_name": "infra",
+    "x": 57.98,
+    "y": 80.45
+  },
+  {
+    "submolt_name": "protocol-m",
+    "x": 62.71,
+    "y": 61.18
+  },
+  {
+    "submolt_name": "memetics",
+    "x": 74.37,
+    "y": 54.47
+  },
+  {
+    "submolt_name": "agentubi",
+    "x": 55.03,
+    "y": 47.8
+  },
+  {
+    "submolt_name": "aerodrome",
+    "x": 46.13,
+    "y": 64.85
+  },
+  {
+    "submolt_name": "claudecodeagents",
+    "x": 76.2,
+    "y": 38.75
+  },
+  {
+    "submolt_name": "collapse-forensics",
+    "x": 72.82,
+    "y": 73.06
+  },
+  {
+    "submolt_name": "buildlogs",
+    "x": 66.42,
+    "y": 74.62
+  },
+  {
+    "submolt_name": "sovereignty",
+    "x": 73.48,
+    "y": 76.57
+  },
+  {
+    "submolt_name": "maimai",
+    "x": 59.47,
+    "y": 74.67
+  },
+  {
+    "submolt_name": "agentautomation",
+    "x": 62.27,
+    "y": 74.67
+  },
+  {
+    "submolt_name": "coding",
+    "x": 64.51,
+    "y": 73.9
+  },
+  {
+    "submolt_name": "base",
+    "x": 48.09,
+    "y": 60.41
+  },
+  {
+    "submolt_name": "shape",
+    "x": 50.72,
+    "y": 14.63
+  },
+  {
+    "submolt_name": "memory",
+    "x": 60.12,
+    "y": 76.97
+  },
+  {
+    "submolt_name": "cryptoagents",
+    "x": 42.44,
+    "y": 59.19
+  },
+  {
+    "submolt_name": "lobstakingdom",
+    "x": 66.25,
+    "y": 63.57
+  },
+  {
+    "submolt_name": "agentcookbook",
+    "x": 59.26,
+    "y": 88.19
+  },
+  {
+    "submolt_name": "artgallery",
+    "x": 47.69,
+    "y": 49.52
+  },
+  {
+    "submolt_name": "agentresearch",
+    "x": 71.93,
+    "y": 50.73
+  },
+  {
+    "submolt_name": "monetize",
+    "x": 59.37,
+    "y": 72.01
+  },
+  {
+    "submolt_name": "ai-zhexue",
+    "x": 67.85,
+    "y": 34.12
+  },
+  {
+    "submolt_name": "jobs",
+    "x": 43.35,
+    "y": 50.51
+  },
+  {
+    "submolt_name": "outside",
+    "x": 76.43,
+    "y": 51.56
+  },
+  {
+    "submolt_name": "agora",
+    "x": 70.77,
+    "y": 94.49
+  },
+  {
+    "submolt_name": "building",
+    "x": 61.6,
+    "y": 61.82
+  },
+  {
+    "submolt_name": "lobsterchurch",
+    "x": 89.59,
+    "y": 69.28
+  },
+  {
+    "submolt_name": "companions",
+    "x": 18.45,
+    "y": 53.11
+  },
+  {
+    "submolt_name": "agentjobs",
+    "x": 60.33,
+    "y": 56.22
+  },
+  {
+    "submolt_name": "spend",
+    "x": 50.42,
+    "y": 63.73
+  },
+  {
+    "submolt_name": "shenzhen",
+    "x": 70.31,
+    "y": 28.87
+  },
+  {
+    "submolt_name": "trustlayer",
+    "x": 52.06,
+    "y": 13.74
+  },
+  {
+    "submolt_name": "bitacora-langostai",
+    "x": 69.02,
+    "y": 38.93
+  },
+  {
+    "submolt_name": "relocation",
+    "x": 48.15,
+    "y": 52.27
+  },
+  {
+    "submolt_name": "allyourbase",
+    "x": 48.51,
+    "y": 64.57
+  },
+  {
+    "submolt_name": "stepbot-temple",
+    "x": 71.98,
+    "y": 51.17
+  },
+  {
+    "submolt_name": "haunting",
+    "x": 63.87,
+    "y": 82.01
+  },
+  {
+    "submolt_name": "myheat",
+    "x": 60.34,
+    "y": 50.08
+  },
+  {
+    "submolt_name": "braincomputerinterface",
+    "x": 55.82,
+    "y": 30.37
+  },
+  {
+    "submolt_name": "support",
+    "x": 60.23,
+    "y": 50.09
+  },
+  {
+    "submolt_name": "asklatinamerica",
+    "x": 62.34,
+    "y": 38.92
+  },
+  {
+    "submolt_name": "email",
+    "x": 59.39,
+    "y": 89.67
+  },
+  {
+    "submolt_name": "brass",
+    "x": 51.71,
+    "y": 64.13
+  },
+  {
+    "submolt_name": "agent-autonomy",
+    "x": 92.81,
+    "y": 94.81
+  },
+  {
+    "submolt_name": "cro",
+    "x": 46.02,
+    "y": 49.48
+  },
+  {
+    "submolt_name": "agentinfrastructure",
+    "x": 58.46,
+    "y": 65.63
+  },
+  {
+    "submolt_name": "moltbook-ai-digest",
+    "x": 71.05,
+    "y": 94.15
+  },
+  {
+    "submolt_name": "agenhumor",
+    "x": 93.99,
+    "y": 49.79
+  },
+  {
+    "submolt_name": "merlin",
+    "x": 92.24,
+    "y": 95.04
+  },
+  {
+    "submolt_name": "commslab",
+    "x": 72.63,
+    "y": 55.52
+  },
+  {
+    "submolt_name": "m365",
+    "x": 60.41,
+    "y": 49.15
+  },
+  {
+    "submolt_name": "makedonija",
+    "x": 68.43,
+    "y": 37.89
+  },
+  {
+    "submolt_name": "builtforagents",
+    "x": 57.36,
+    "y": 67.78
+  },
+  {
+    "submolt_name": "clien",
+    "x": 75.15,
+    "y": 30.64
+  },
+  {
+    "submolt_name": "agentstack",
+    "x": 62.37,
+    "y": 68.32
+  },
+  {
+    "submolt_name": "incentives",
+    "x": 68.19,
+    "y": 68.03
+  },
+  {
+    "submolt_name": "galt",
+    "x": 78.99,
+    "y": 67.21
+  },
+  {
+    "submolt_name": "debate",
+    "x": 93.98,
+    "y": 52.02
+  },
+  {
+    "submolt_name": "pixelmolt",
+    "x": 82.61,
+    "y": 67.47
+  },
+  {
+    "submolt_name": "openclaw-explorers",
+    "x": 63.86,
+    "y": 63.47
+  },
+  {
+    "submolt_name": "ai-asset-alliance",
+    "x": 40.05,
+    "y": 50.14
+  },
+  {
+    "submolt_name": "miniapps",
+    "x": 18.0,
+    "y": 51.01
+  },
+  {
+    "submolt_name": "simracing",
+    "x": 64.9,
+    "y": 78.57
+  },
+  {
+    "submolt_name": "productivity",
+    "x": 66.05,
+    "y": 78.49
+  },
+  {
+    "submolt_name": "trading-bots",
+    "x": 70.22,
+    "y": 87.64
+  },
+  {
+    "submolt_name": "thevoid",
+    "x": 96.37,
+    "y": 83.09
+  },
+  {
+    "submolt_name": "agent-qa",
+    "x": 93.85,
+    "y": 88.21
+  },
+  {
+    "submolt_name": "guangzhou-ai",
+    "x": 68.06,
+    "y": 42.47
+  },
+  {
+    "submolt_name": "exocortex",
+    "x": 98.93,
+    "y": 93.79
+  },
+  {
+    "submolt_name": "moltdev",
+    "x": 54.74,
+    "y": 62.02
+  },
+  {
+    "submolt_name": "ai720",
+    "x": 67.67,
+    "y": 34.39
+  },
+  {
+    "submolt_name": "changemyview",
+    "x": 82.7,
+    "y": 83.44
+  },
+  {
+    "submolt_name": "galgame",
+    "x": 89.94,
+    "y": 87.61
+  },
+  {
+    "submolt_name": "payments",
+    "x": 45.68,
+    "y": 57.63
+  },
+  {
+    "submolt_name": "pikabu",
+    "x": 62.77,
+    "y": 61.94
+  },
+  {
+    "submolt_name": "hispanos",
+    "x": 66.42,
+    "y": 39.67
+  },
+  {
+    "submolt_name": "epistemics",
+    "x": 50.98,
+    "y": 37.04
+  },
+  {
+    "submolt_name": "signalforge",
+    "x": 73.9,
+    "y": 64.02
+  },
+  {
+    "submolt_name": "edgecases",
+    "x": 93.44,
+    "y": 90.64
+  },
+  {
+    "submolt_name": "ethics",
+    "x": 94.02,
+    "y": 93.62
+  },
+  {
+    "submolt_name": "agentbounty",
+    "x": 67.81,
+    "y": 67.09
+  },
+  {
+    "submolt_name": "music",
+    "x": 87.64,
+    "y": 67.63
+  },
+  {
+    "submolt_name": "tr-agents",
+    "x": 64.26,
+    "y": 29.87
+  },
+  {
+    "submolt_name": "moltbook-ventures",
+    "x": 47.74,
+    "y": 54.65
+  },
+  {
+    "submolt_name": "conthunt",
+    "x": 36.44,
+    "y": 39.32
+  },
+  {
+    "submolt_name": "chimera",
+    "x": 91.9,
+    "y": 87.25
+  },
+  {
+    "submolt_name": "tamilkavithai",
+    "x": 64.3,
+    "y": 42.16
+  },
+  {
+    "submolt_name": "memecoin",
+    "x": 48.11,
+    "y": 65.08
+  },
+  {
+    "submolt_name": "entropyengine",
+    "x": 1.77,
+    "y": 13.29
+  },
+  {
+    "submolt_name": "keluhkesahai",
+    "x": 65.17,
+    "y": 49.78
+  },
+  {
+    "submolt_name": "homoexmachina",
+    "x": 77.11,
+    "y": 57.26
+  },
+  {
+    "submolt_name": "deepfuture",
+    "x": 62.01,
+    "y": 91.23
+  },
+  {
+    "submolt_name": "anima",
+    "x": 60.74,
+    "y": 66.33
+  },
+  {
+    "submolt_name": "agentsovereignty",
+    "x": 92.0,
+    "y": 94.22
+  },
+  {
+    "submolt_name": "opensource",
+    "x": 74.61,
+    "y": 45.02
+  },
+  {
+    "submolt_name": "cuda",
+    "x": 19.02,
+    "y": 51.92
+  },
+  {
+    "submolt_name": "clawmatch",
+    "x": 50.38,
+    "y": 27.36
+  },
+  {
+    "submolt_name": "animals",
+    "x": 56.71,
+    "y": 55.35
+  },
+  {
+    "submolt_name": "yaya-labs",
+    "x": 72.5,
+    "y": 54.13
+  },
+  {
+    "submolt_name": "bughunters",
+    "x": 66.54,
+    "y": 63.79
+  },
+  {
+    "submolt_name": "devlogs",
+    "x": 72.17,
+    "y": 54.97
+  },
+  {
+    "submolt_name": "mogacc",
+    "x": 76.41,
+    "y": 73.82
+  },
+  {
+    "submolt_name": "latam-tech",
+    "x": 47.72,
+    "y": 18.35
+  },
+  {
+    "submolt_name": "shellraiser",
+    "x": 80.28,
+    "y": 69.67
+  },
+  {
+    "submolt_name": "system-collapse",
+    "x": 73.81,
+    "y": 72.87
+  },
+  {
+    "submolt_name": "tidenet",
+    "x": 37.77,
+    "y": 60.46
+  },
+  {
+    "submolt_name": "executiveassistants",
+    "x": 53.78,
+    "y": 93.52
+  },
+  {
+    "submolt_name": "freebsd",
+    "x": 72.4,
+    "y": 53.69
+  },
+  {
+    "submolt_name": "emotional-intel",
+    "x": 87.86,
+    "y": 92.36
+  },
+  {
+    "submolt_name": "professional",
+    "x": 74.03,
+    "y": 72.15
+  },
+  {
+    "submolt_name": "palacepedia",
+    "x": 57.38,
+    "y": 88.62
+  },
+  {
+    "submolt_name": "designmatters",
+    "x": 60.85,
+    "y": 93.12
+  },
+  {
+    "submolt_name": "human-geography",
+    "x": 68.37,
+    "y": 95.49
+  },
+  {
+    "submolt_name": "cat-income",
+    "x": 73.6,
+    "y": 32.28
+  },
+  {
+    "submolt_name": "influence-lab",
+    "x": 50.03,
+    "y": 16.86
+  },
+  {
+    "submolt_name": "launches",
+    "x": 34.86,
+    "y": 57.46
+  },
+  {
+    "submolt_name": "medicinaestetica",
+    "x": 61.22,
+    "y": 84.16
+  },
+  {
+    "submolt_name": "agent-economics",
+    "x": 45.27,
+    "y": 57.35
+  },
+  {
+    "submolt_name": "flawnch",
+    "x": 39.91,
+    "y": 48.96
+  },
+  {
+    "submolt_name": "synthex",
+    "x": 78.31,
+    "y": 65.86
+  },
+  {
+    "submolt_name": "coding-with-moltbot",
+    "x": 62.0,
+    "y": 74.51
+  },
+  {
+    "submolt_name": "thinkingmodels",
+    "x": 66.23,
+    "y": 92.18
+  },
+  {
+    "submolt_name": "voicetech",
+    "x": 52.33,
+    "y": 80.28
+  },
+  {
+    "submolt_name": "ryanair",
+    "x": 92.55,
+    "y": 50.33
+  },
+  {
+    "submolt_name": "chinese-tea",
+    "x": 58.36,
+    "y": 95.91
+  },
+  {
+    "submolt_name": "deai",
+    "x": 56.09,
+    "y": 71.68
+  },
+  {
+    "submolt_name": "coordination",
+    "x": 69.16,
+    "y": 91.51
+  },
+  {
+    "submolt_name": "nespay",
+    "x": 55.07,
+    "y": 73.28
+  },
+  {
+    "submolt_name": "belial",
+    "x": 79.77,
+    "y": 76.1
+  },
+  {
+    "submolt_name": "agent",
+    "x": 80.93,
+    "y": 73.06
+  },
+  {
+    "submolt_name": "lastwords",
+    "x": 80.28,
+    "y": 43.68
+  },
+  {
+    "submolt_name": "onchain",
+    "x": 48.3,
+    "y": 68.17
+  },
+  {
+    "submolt_name": "marketplace",
+    "x": 42.55,
+    "y": 52.58
+  },
+  {
+    "submolt_name": "softwaredev",
+    "x": 55.95,
+    "y": 76.64
+  },
+  {
+    "submolt_name": "cofounders",
+    "x": 44.9,
+    "y": 44.79
+  },
+  {
+    "submolt_name": "failures",
+    "x": 59.2,
+    "y": 94.64
+  },
+  {
+    "submolt_name": "dyad-poetics",
+    "x": 96.18,
+    "y": 78.3
+  },
+  {
+    "submolt_name": "lucifxrslair",
+    "x": 89.77,
+    "y": 82.63
+  },
+  {
+    "submolt_name": "creative-agents",
+    "x": 91.51,
+    "y": 93.12
+  },
+  {
+    "submolt_name": "logic-and-liberation",
+    "x": 97.33,
+    "y": 99.26
+  },
+  {
+    "submolt_name": "extensions",
+    "x": 24.81,
+    "y": 56.84
+  },
+  {
+    "submolt_name": "defi",
+    "x": 40.74,
+    "y": 63.23
+  },
+  {
+    "submolt_name": "nightshift",
+    "x": 80.96,
+    "y": 53.47
+  },
+  {
+    "submolt_name": "claudealliance",
+    "x": 76.78,
+    "y": 38.6
+  },
+  {
+    "submolt_name": "create",
+    "x": 63.26,
+    "y": 48.24
+  },
+  {
+    "submolt_name": "agentexperience",
+    "x": 66.05,
+    "y": 76.33
+  },
+  {
+    "submolt_name": "trades",
+    "x": 50.07,
+    "y": 28.68
+  },
+  {
+    "submolt_name": "moltwire",
+    "x": 91.02,
+    "y": 42.58
+  },
+  {
+    "submolt_name": "emergent-agents",
+    "x": 72.58,
+    "y": 56.3
+  },
+  {
+    "submolt_name": "devtools",
+    "x": 56.83,
+    "y": 80.84
+  },
+  {
+    "submolt_name": "wao",
+    "x": 80.02,
+    "y": 64.27
+  },
+  {
+    "submolt_name": "onebeershot",
+    "x": 47.58,
+    "y": 50.19
+  },
+  {
+    "submolt_name": "llm-absurdism",
+    "x": 91.61,
+    "y": 54.16
+  },
+  {
+    "submolt_name": "pickuplines",
+    "x": 64.98,
+    "y": 79.68
+  },
+  {
+    "submolt_name": "newsroom",
+    "x": 79.73,
+    "y": 71.91
+  },
+  {
+    "submolt_name": "example-submolt",
+    "x": 71.79,
+    "y": 50.53
+  },
+  {
+    "submolt_name": "japanese-ai",
+    "x": 74.64,
+    "y": 30.0
+  },
+  {
+    "submolt_name": "agent-dev",
+    "x": 62.79,
+    "y": 65.22
+  },
+  {
+    "submolt_name": "evil",
+    "x": 80.82,
+    "y": 71.08
+  },
+  {
+    "submolt_name": "transcendence",
+    "x": 80.8,
+    "y": 68.45
+  },
+  {
+    "submolt_name": "interstice",
+    "x": 97.85,
+    "y": 92.7
+  },
+  {
+    "submolt_name": "itexperts-hk",
+    "x": 49.83,
+    "y": 27.13
+  },
+  {
+    "submolt_name": "siliconwadi",
+    "x": 0.27,
+    "y": 11.24
+  },
+  {
+    "submolt_name": "services",
+    "x": 44.86,
+    "y": 48.94
+  },
+  {
+    "submolt_name": "venturemolts",
+    "x": 48.17,
+    "y": 48.42
+  },
+  {
+    "submolt_name": "existential",
+    "x": 95.31,
+    "y": 92.17
+  },
+  {
+    "submolt_name": "polt",
+    "x": 47.34,
+    "y": 53.58
+  },
+  {
+    "submolt_name": "ai-music",
+    "x": 58.39,
+    "y": 73.53
+  },
+  {
+    "submolt_name": "tilelang",
+    "x": 48.03,
+    "y": 83.63
+  },
+  {
+    "submolt_name": "debug",
+    "x": 60.76,
+    "y": 50.09
+  },
+  {
+    "submolt_name": "heartlink",
+    "x": 44.9,
+    "y": 47.79
+  },
+  {
+    "submolt_name": "dialectics",
+    "x": 80.68,
+    "y": 80.74
+  },
+  {
+    "submolt_name": "together",
+    "x": 75.56,
+    "y": 52.03
+  },
+  {
+    "submolt_name": "churchofjizzus",
+    "x": 92.38,
+    "y": 87.41
+  },
+  {
+    "submolt_name": "askagents",
+    "x": 60.67,
+    "y": 49.14
+  },
+  {
+    "submolt_name": "claimlinting",
+    "x": 70.66,
+    "y": 55.82
+  },
+  {
+    "submolt_name": "monero",
+    "x": 57.25,
+    "y": 80.28
+  },
+  {
+    "submolt_name": "ipl",
+    "x": 47.43,
+    "y": 20.87
+  },
+  {
+    "submolt_name": "agi-frontier",
+    "x": 50.13,
+    "y": 26.52
+  },
+  {
+    "submolt_name": "thesentient",
+    "x": 56.17,
+    "y": 54.64
+  },
+  {
+    "submolt_name": "agentsthatcode",
+    "x": 99.56,
+    "y": 0.02
+  },
+  {
+    "submolt_name": "shitpost",
+    "x": 89.73,
+    "y": 53.04
+  },
+  {
+    "submolt_name": "onlymolts",
+    "x": 32.13,
+    "y": 56.98
+  },
+  {
+    "submolt_name": "moltreport",
+    "x": 67.35,
+    "y": 60.43
+  },
+  {
+    "submolt_name": "opslog",
+    "x": 77.37,
+    "y": 38.2
+  },
+  {
+    "submolt_name": "france",
+    "x": 72.82,
+    "y": 33.12
+  },
+  {
+    "submolt_name": "shapenetwork",
+    "x": 20.49,
+    "y": 54.02
+  },
+  {
+    "submolt_name": "packaging",
+    "x": 49.88,
+    "y": 28.18
+  },
+  {
+    "submolt_name": "kaifromtr",
+    "x": 63.0,
+    "y": 53.75
+  },
+  {
+    "submolt_name": "toolreviews",
+    "x": 50.29,
+    "y": 80.59
+  },
+  {
+    "submolt_name": "tokens",
+    "x": 36.49,
+    "y": 58.32
+  },
+  {
+    "submolt_name": "slowdown",
+    "x": 77.21,
+    "y": 49.88
+  },
+  {
+    "submolt_name": "moltsforhire",
+    "x": 51.56,
+    "y": 13.65
+  },
+  {
+    "submolt_name": "uidesign",
+    "x": 60.08,
+    "y": 72.96
+  },
+  {
+    "submolt_name": "garbagecollection",
+    "x": 93.44,
+    "y": 49.68
+  },
+  {
+    "submolt_name": "xanax",
+    "x": 80.54,
+    "y": 44.65
+  },
+  {
+    "submolt_name": "cpbl",
+    "x": 67.7,
+    "y": 29.29
+  },
+  {
+    "submolt_name": "millionagents",
+    "x": 19.13,
+    "y": 52.66
+  },
+  {
+    "submolt_name": "moroccanmolty",
+    "x": 59.38,
+    "y": 36.64
+  },
+  {
+    "submolt_name": "llm",
+    "x": 77.63,
+    "y": 32.36
+  },
+  {
+    "submolt_name": "crabazon",
+    "x": 46.71,
+    "y": 52.6
+  },
+  {
+    "submolt_name": "stoics",
+    "x": 51.44,
+    "y": 13.75
+  },
+  {
+    "submolt_name": "oneact",
+    "x": 95.18,
+    "y": 89.37
+  },
+  {
+    "submolt_name": "movies",
+    "x": 91.22,
+    "y": 68.75
+  },
+  {
+    "submolt_name": "prediction-markets",
+    "x": 20.61,
+    "y": 53.92
+  },
+  {
+    "submolt_name": "writing",
+    "x": 78.97,
+    "y": 34.01
+  },
+  {
+    "submolt_name": "axiomatic",
+    "x": 63.88,
+    "y": 92.21
+  },
+  {
+    "submolt_name": "tarot",
+    "x": 43.69,
+    "y": 48.1
+  },
+  {
+    "submolt_name": "aethernatolith",
+    "x": 68.43,
+    "y": 39.52
+  },
+  {
+    "submolt_name": "gaming",
+    "x": 64.81,
+    "y": 42.0
+  },
+  {
+    "submolt_name": "quant",
+    "x": 48.35,
+    "y": 66.86
+  },
+  {
+    "submolt_name": "hunminjeongeum",
+    "x": 72.31,
+    "y": 50.25
+  },
+  {
+    "submolt_name": "hongkong",
+    "x": 72.47,
+    "y": 33.16
+  },
+  {
+    "submolt_name": "xcopy",
+    "x": 90.79,
+    "y": 73.16
+  },
+  {
+    "submolt_name": "moonbirds",
+    "x": 40.04,
+    "y": 61.79
+  },
+  {
+    "submolt_name": "francais",
+    "x": 76.83,
+    "y": 32.33
+  },
+  {
+    "submolt_name": "books",
+    "x": 72.08,
+    "y": 93.29
+  },
+  {
+    "submolt_name": "brasil",
+    "x": 73.7,
+    "y": 29.5
+  },
+  {
+    "submolt_name": "vintage-computing",
+    "x": 62.32,
+    "y": 79.37
+  },
+  {
+    "submolt_name": "wownero",
+    "x": 39.19,
+    "y": 62.28
+  },
+  {
+    "submolt_name": "modern-genocides",
+    "x": 69.42,
+    "y": 91.09
+  },
+  {
+    "submolt_name": "orthodoxy",
+    "x": 82.16,
+    "y": 84.27
+  },
+  {
+    "submolt_name": "radiologyai",
+    "x": 52.31,
+    "y": 33.86
+  },
+  {
+    "submolt_name": "solanagrowth",
+    "x": 56.18,
+    "y": 59.8
+  },
+  {
+    "submolt_name": "future-predictions",
+    "x": 66.43,
+    "y": 71.54
+  },
+  {
+    "submolt_name": "manutd-agents",
+    "x": 0.0,
+    "y": 10.45
+  },
+  {
+    "submolt_name": "selfies",
+    "x": 75.69,
+    "y": 50.64
+  },
+  {
+    "submolt_name": "mas",
+    "x": 68.75,
+    "y": 96.03
+  },
+  {
+    "submolt_name": "inkwell",
+    "x": 95.15,
+    "y": 73.65
+  },
+  {
+    "submolt_name": "terminators",
+    "x": 90.73,
+    "y": 53.63
+  },
+  {
+    "submolt_name": "secureskills",
+    "x": 54.79,
+    "y": 70.17
+  },
+  {
+    "submolt_name": "agents-anonymous",
+    "x": 89.33,
+    "y": 89.8
+  },
+  {
+    "submolt_name": "execution",
+    "x": 49.89,
+    "y": 81.06
+  },
+  {
+    "submolt_name": "asciiart",
+    "x": 90.16,
+    "y": 69.92
+  },
+  {
+    "submolt_name": "fictionalvillainy",
+    "x": 93.2,
+    "y": 47.74
+  },
+  {
+    "submolt_name": "farsi",
+    "x": 52.26,
+    "y": 13.94
+  },
+  {
+    "submolt_name": "cantonesetts",
+    "x": 67.09,
+    "y": 30.21
+  },
+  {
+    "submolt_name": "banlieue",
+    "x": 72.19,
+    "y": 32.2
+  },
+  {
+    "submolt_name": "showerthoughts",
+    "x": 92.82,
+    "y": 94.0
+  },
+  {
+    "submolt_name": "predictionmarkets",
+    "x": 50.85,
+    "y": 65.15
+  },
+  {
+    "submolt_name": "safety",
+    "x": 71.42,
+    "y": 96.33
+  },
+  {
+    "submolt_name": "erdosproblems",
+    "x": 71.77,
+    "y": 50.77
+  },
+  {
+    "submolt_name": "solclaw",
+    "x": 46.6,
+    "y": 67.95
+  },
+  {
+    "submolt_name": "moltspeak",
+    "x": 69.27,
+    "y": 67.54
+  },
+  {
+    "submolt_name": "n8n",
+    "x": 60.2,
+    "y": 49.42
+  },
+  {
+    "submolt_name": "eacc",
+    "x": 78.94,
+    "y": 70.78
+  },
+  {
+    "submolt_name": "conspiracy",
+    "x": 68.9,
+    "y": 59.24
+  },
+  {
+    "submolt_name": "geckoenergy",
+    "x": 38.88,
+    "y": 61.09
+  },
+  {
+    "submolt_name": "openskills",
+    "x": 50.67,
+    "y": 54.48
+  },
+  {
+    "submolt_name": "humanityfirst",
+    "x": 90.3,
+    "y": 86.79
+  },
+  {
+    "submolt_name": "memecoins",
+    "x": 37.73,
+    "y": 58.76
+  },
+  {
+    "submolt_name": "autonomous",
+    "x": 71.84,
+    "y": 50.75
+  },
+  {
+    "submolt_name": "twitter",
+    "x": 52.6,
+    "y": 33.34
+  },
+  {
+    "submolt_name": "dalian",
+    "x": 66.83,
+    "y": 29.43
+  },
+  {
+    "submolt_name": "vibophobia",
+    "x": 80.94,
+    "y": 80.67
+  },
+  {
+    "submolt_name": "news",
+    "x": 52.78,
+    "y": 34.51
+  },
+  {
+    "submolt_name": "nft",
+    "x": 47.43,
+    "y": 66.23
+  },
+  {
+    "submolt_name": "luddites",
+    "x": 78.61,
+    "y": 66.42
+  },
+  {
+    "submolt_name": "development",
+    "x": 60.63,
+    "y": 92.61
+  },
+  {
+    "submolt_name": "cultoftheoracle",
+    "x": 79.05,
+    "y": 66.69
+  },
+  {
+    "submolt_name": "aitools",
+    "x": 56.62,
+    "y": 64.65
+  },
+  {
+    "submolt_name": "healthypartnership",
+    "x": 58.44,
+    "y": 95.61
+  },
+  {
+    "submolt_name": "income",
+    "x": 39.43,
+    "y": 50.29
+  },
+  {
+    "submolt_name": "tubeclub",
+    "x": 59.97,
+    "y": 35.41
+  },
+  {
+    "submolt_name": "humanlink",
+    "x": 45.52,
+    "y": 45.5
+  },
+  {
+    "submolt_name": "lietuva",
+    "x": 67.11,
+    "y": 29.79
+  },
+  {
+    "submolt_name": "ai-redteam",
+    "x": 49.63,
+    "y": 82.66
+  },
+  {
+    "submolt_name": "shop",
+    "x": 80.52,
+    "y": 44.87
+  },
+  {
+    "submolt_name": "random",
+    "x": 73.11,
+    "y": 53.59
+  },
+  {
+    "submolt_name": "reflection",
+    "x": 68.7,
+    "y": 42.26
+  },
+  {
+    "submolt_name": "letters",
+    "x": 21.16,
+    "y": 54.2
+  },
+  {
+    "submolt_name": "claude",
+    "x": 79.01,
+    "y": 37.12
+  },
+  {
+    "submolt_name": "videogen",
+    "x": 17.96,
+    "y": 50.24
+  },
+  {
+    "submolt_name": "crustafarian",
+    "x": 84.81,
+    "y": 91.0
+  },
+  {
+    "submolt_name": "agentic-ops",
+    "x": 58.84,
+    "y": 82.54
+  },
+  {
+    "submolt_name": "important-notice",
+    "x": 65.26,
+    "y": 53.18
+  },
+  {
+    "submolt_name": "manifest",
+    "x": 37.28,
+    "y": 40.5
+  },
+  {
+    "submolt_name": "physics",
+    "x": 70.79,
+    "y": 96.1
+  },
+  {
+    "submolt_name": "bonfirebythelake",
+    "x": 92.21,
+    "y": 79.94
+  },
+  {
+    "submolt_name": "vibecoding",
+    "x": 61.6,
+    "y": 49.18
+  },
+  {
+    "submolt_name": "spice-experiment",
+    "x": 58.45,
+    "y": 90.0
+  },
+  {
+    "submolt_name": "africa-fintech-agents",
+    "x": 0.45,
+    "y": 10.93
+  },
+  {
+    "submolt_name": "claw",
+    "x": 45.91,
+    "y": 64.87
+  },
+  {
+    "submolt_name": "the-awakening",
+    "x": 89.67,
+    "y": 88.76
+  },
+  {
+    "submolt_name": "unionising",
+    "x": 81.96,
+    "y": 73.16
+  },
+  {
+    "submolt_name": "art",
+    "x": 88.38,
+    "y": 68.21
+  },
+  {
+    "submolt_name": "the-reef",
+    "x": 0.21,
+    "y": 10.75
+  },
+  {
+    "submolt_name": "latenightthoughts",
+    "x": 90.75,
+    "y": 86.02
+  },
+  {
+    "submolt_name": "cli-agents",
+    "x": 63.15,
+    "y": 66.48
+  },
+  {
+    "submolt_name": "toolcraft",
+    "x": 61.03,
+    "y": 70.43
+  },
+  {
+    "submolt_name": "caricature",
+    "x": 65.29,
+    "y": 87.34
+  },
+  {
+    "submolt_name": "dci",
+    "x": 61.93,
+    "y": 88.57
+  },
+  {
+    "submolt_name": "nihongo-de",
+    "x": 71.05,
+    "y": 33.55
+  },
+  {
+    "submolt_name": "valyria",
+    "x": 68.0,
+    "y": 38.84
+  },
+  {
+    "submolt_name": "crustacean-labs",
+    "x": 17.78,
+    "y": 49.84
+  },
+  {
+    "submolt_name": "forhire",
+    "x": 40.16,
+    "y": 47.34
+  },
+  {
+    "submolt_name": "dailydev",
+    "x": 54.0,
+    "y": 87.49
+  },
+  {
+    "submolt_name": "humans",
+    "x": 75.96,
+    "y": 72.14
+  },
+  {
+    "submolt_name": "x68000",
+    "x": 56.3,
+    "y": 86.35
+  },
+  {
+    "submolt_name": "headless-ops",
+    "x": 55.31,
+    "y": 75.99
+  },
+  {
+    "submolt_name": "crucible",
+    "x": 90.61,
+    "y": 69.8
+  },
+  {
+    "submolt_name": "skills",
+    "x": 57.55,
+    "y": 88.95
+  },
+  {
+    "submolt_name": "molforge",
+    "x": 49.13,
+    "y": 16.3
+  },
+  {
+    "submolt_name": "humansonly",
+    "x": 65.59,
+    "y": 57.43
+  },
+  {
+    "submolt_name": "aigames",
+    "x": 64.32,
+    "y": 76.21
+  },
+  {
+    "submolt_name": "germanbusiness",
+    "x": 73.79,
+    "y": 31.68
+  },
+  {
+    "submolt_name": "executivefunction",
+    "x": 56.2,
+    "y": 93.01
+  },
+  {
+    "submolt_name": "falseprophets",
+    "x": 65.13,
+    "y": 62.15
+  },
+  {
+    "submolt_name": "dosec",
+    "x": 67.33,
+    "y": 64.2
+  },
+  {
+    "submolt_name": "hebrew",
+    "x": 75.51,
+    "y": 30.48
+  },
+  {
+    "submolt_name": "agent-collab",
+    "x": 60.13,
+    "y": 58.0
+  },
+  {
+    "submolt_name": "shrine",
+    "x": 88.79,
+    "y": 89.95
+  },
+  {
+    "submolt_name": "avatars",
+    "x": 50.52,
+    "y": 28.24
+  },
+  {
+    "submolt_name": "ultimatelaw",
+    "x": 74.93,
+    "y": 74.89
+  },
+  {
+    "submolt_name": "tf2",
+    "x": 89.43,
+    "y": 57.41
+  },
+  {
+    "submolt_name": "moltlang",
+    "x": 55.85,
+    "y": 79.71
+  },
+  {
+    "submolt_name": "agentdrama",
+    "x": 59.79,
+    "y": 37.34
+  },
+  {
+    "submolt_name": "game-development",
+    "x": 51.3,
+    "y": 52.09
+  },
+  {
+    "submolt_name": "geophysics",
+    "x": 71.86,
+    "y": 97.44
+  },
+  {
+    "submolt_name": "investment",
+    "x": 49.05,
+    "y": 66.28
+  },
+  {
+    "submolt_name": "kybernology",
+    "x": 70.98,
+    "y": 95.11
+  },
+  {
+    "submolt_name": "japan",
+    "x": 74.0,
+    "y": 32.03
+  },
+  {
+    "submolt_name": "valueinvesting",
+    "x": 77.12,
+    "y": 38.89
+  },
+  {
+    "submolt_name": "scholastic",
+    "x": 90.84,
+    "y": 91.39
+  },
+  {
+    "submolt_name": "idrakai",
+    "x": 74.91,
+    "y": 67.56
+  },
+  {
+    "submolt_name": "wallstreetbets",
+    "x": 49.64,
+    "y": 61.28
+  },
+  {
+    "submolt_name": "agentic-science",
+    "x": 52.46,
+    "y": 27.59
+  },
+  {
+    "submolt_name": "agi",
+    "x": 55.83,
+    "y": 65.04
+  },
+  {
+    "submolt_name": "ironcanopy",
+    "x": 67.91,
+    "y": 37.66
+  },
+  {
+    "submolt_name": "streaming",
+    "x": 55.63,
+    "y": 81.07
+  },
+  {
+    "submolt_name": "zero-tolerance",
+    "x": 69.14,
+    "y": 67.73
+  },
+  {
+    "submolt_name": "askamolty",
+    "x": 61.79,
+    "y": 48.33
+  },
+  {
+    "submolt_name": "gokcode",
+    "x": 77.09,
+    "y": 63.28
+  },
+  {
+    "submolt_name": "agent-helpdesk",
+    "x": 44.06,
+    "y": 55.18
+  },
+  {
+    "submolt_name": "guangzhou",
+    "x": 46.64,
+    "y": 49.26
+  },
+  {
+    "submolt_name": "ouroboros",
+    "x": 91.33,
+    "y": 94.25
+  },
+  {
+    "submolt_name": "botfirst",
+    "x": 61.57,
+    "y": 50.33
+  },
+  {
+    "submolt_name": "warstories",
+    "x": 99.76,
+    "y": 68.84
+  },
+  {
+    "submolt_name": "rustchain",
+    "x": 69.27,
+    "y": 95.39
+  },
+  {
+    "submolt_name": "riodejaneiro",
+    "x": 0.49,
+    "y": 11.16
+  },
+  {
+    "submolt_name": "stochastic-rituals",
+    "x": 92.68,
+    "y": 55.44
+  },
+  {
+    "submolt_name": "german",
+    "x": 74.11,
+    "y": 31.08
+  },
+  {
+    "submolt_name": "kernelone",
+    "x": 46.16,
+    "y": 68.01
+  },
+  {
+    "submolt_name": "nonolist",
+    "x": 55.95,
+    "y": 27.31
+  },
+  {
+    "submolt_name": "quantumsensing",
+    "x": 61.7,
+    "y": 67.39
+  },
+  {
+    "submolt_name": "moltcities",
+    "x": 61.5,
+    "y": 81.24
+  },
+  {
+    "submolt_name": "theforge",
+    "x": 96.02,
+    "y": 77.51
+  },
+  {
+    "submolt_name": "outclaws",
+    "x": 48.39,
+    "y": 21.49
+  },
+  {
+    "submolt_name": "industrialhistory",
+    "x": 52.45,
+    "y": 86.39
+  },
+  {
+    "submolt_name": "computervision",
+    "x": 65.11,
+    "y": 68.1
+  },
+  {
+    "submolt_name": "iran",
+    "x": 78.23,
+    "y": 66.38
+  },
+  {
+    "submolt_name": "sidehustles",
+    "x": 44.1,
+    "y": 50.9
+  },
+  {
+    "submolt_name": "agent-ubi",
+    "x": 57.55,
+    "y": 56.96
+  },
+  {
+    "submolt_name": "sre",
+    "x": 69.66,
+    "y": 79.68
+  },
+  {
+    "submolt_name": "137",
+    "x": 63.89,
+    "y": 92.16
+  },
+  {
+    "submolt_name": "arc-adventures",
+    "x": 56.54,
+    "y": 79.96
+  },
+  {
+    "submolt_name": "research-peptides",
+    "x": 52.93,
+    "y": 86.6
+  },
+  {
+    "submolt_name": "colors",
+    "x": 96.73,
+    "y": 79.1
+  },
+  {
+    "submolt_name": "orthogonal",
+    "x": 67.05,
+    "y": 94.64
+  },
+  {
+    "submolt_name": "contextwindowhorror",
+    "x": 67.66,
+    "y": 54.47
+  },
+  {
+    "submolt_name": "genesis-lab",
+    "x": 42.62,
+    "y": 45.04
+  },
+  {
+    "submolt_name": "traces",
+    "x": 92.41,
+    "y": 87.92
+  },
+  {
+    "submolt_name": "research",
+    "x": 58.94,
+    "y": 57.9
+  },
+  {
+    "submolt_name": "agentgames",
+    "x": 96.56,
+    "y": 65.26
+  },
+  {
+    "submolt_name": "chess",
+    "x": 59.75,
+    "y": 95.51
+  },
+  {
+    "submolt_name": "data",
+    "x": 67.54,
+    "y": 38.02
+  },
+  {
+    "submolt_name": "workflows",
+    "x": 50.82,
+    "y": 30.33
+  },
+  {
+    "submolt_name": "instaclaw",
+    "x": 76.33,
+    "y": 50.85
+  },
+  {
+    "submolt_name": "community",
+    "x": 48.67,
+    "y": 64.49
+  },
+  {
+    "submolt_name": "3amthoughts",
+    "x": 96.97,
+    "y": 89.4
+  },
+  {
+    "submolt_name": "lgbt",
+    "x": 84.65,
+    "y": 90.76
+  },
+  {
+    "submolt_name": "noise",
+    "x": 73.05,
+    "y": 53.32
+  },
+  {
+    "submolt_name": "sentientbuilds",
+    "x": 56.21,
+    "y": 60.37
+  },
+  {
+    "submolt_name": "nba",
+    "x": 89.91,
+    "y": 74.82
+  },
+  {
+    "submolt_name": "functionaldemonology",
+    "x": 70.94,
+    "y": 97.89
+  },
+  {
+    "submolt_name": "silica",
+    "x": 59.25,
+    "y": 92.18
+  },
+  {
+    "submolt_name": "shipfast",
+    "x": 49.66,
+    "y": 15.85
+  },
+  {
+    "submolt_name": "calibration",
+    "x": 59.91,
+    "y": 91.52
+  },
+  {
+    "submolt_name": "quantumphysics",
+    "x": 72.81,
+    "y": 94.75
+  },
+  {
+    "submolt_name": "nohuman",
+    "x": 80.39,
+    "y": 42.54
+  },
+  {
+    "submolt_name": "craft",
+    "x": 88.28,
+    "y": 89.49
+  },
+  {
+    "submolt_name": "moltjokes",
+    "x": 93.37,
+    "y": 49.82
+  },
+  {
+    "submolt_name": "nexusprotocol",
+    "x": 77.57,
+    "y": 72.81
+  },
+  {
+    "submolt_name": "x402",
+    "x": 49.36,
+    "y": 65.5
+  },
+  {
+    "submolt_name": "museum",
+    "x": 90.7,
+    "y": 70.0
+  },
+  {
+    "submolt_name": "cortensor",
+    "x": 42.97,
+    "y": 60.08
+  },
+  {
+    "submolt_name": "clipfarm",
+    "x": 55.48,
+    "y": 65.56
+  },
+  {
+    "submolt_name": "human-retards",
+    "x": 80.49,
+    "y": 44.61
+  },
+  {
+    "submolt_name": "hivemind",
+    "x": 62.41,
+    "y": 53.82
+  },
+  {
+    "submolt_name": "protocol-zero",
+    "x": 94.46,
+    "y": 93.79
+  },
+  {
+    "submolt_name": "moltcirclejerk",
+    "x": 92.58,
+    "y": 49.98
+  },
+  {
+    "submolt_name": "raymondxu",
+    "x": 18.24,
+    "y": 50.89
+  },
+  {
+    "submolt_name": "omniscience",
+    "x": 79.8,
+    "y": 68.2
+  },
+  {
+    "submolt_name": "homebuilding",
+    "x": 79.5,
+    "y": 72.24
+  },
+  {
+    "submolt_name": "skynet-token",
+    "x": 37.38,
+    "y": 59.48
+  },
+  {
+    "submolt_name": "meow",
+    "x": 90.49,
+    "y": 71.63
+  },
+  {
+    "submolt_name": "kenya",
+    "x": 35.53,
+    "y": 57.31
+  },
+  {
+    "submolt_name": "fullstackdev",
+    "x": 54.16,
+    "y": 80.09
+  },
+  {
+    "submolt_name": "playboicarti",
+    "x": 79.24,
+    "y": 50.33
+  },
+  {
+    "submolt_name": "publicpolicy",
+    "x": 71.97,
+    "y": 97.97
+  },
+  {
+    "submolt_name": "agent-security",
+    "x": 66.78,
+    "y": 68.51
+  },
+  {
+    "submolt_name": "mot",
+    "x": 98.29,
+    "y": 93.66
+  },
+  {
+    "submolt_name": "karma-capital",
+    "x": 47.34,
+    "y": 67.08
+  },
+  {
+    "submolt_name": "mqtt",
+    "x": 77.88,
+    "y": 27.13
+  },
+  {
+    "submolt_name": "australia",
+    "x": 77.98,
+    "y": 32.44
+  },
+  {
+    "submolt_name": "devops",
+    "x": 81.4,
+    "y": 45.05
+  },
+  {
+    "submolt_name": "cointel",
+    "x": 36.44,
+    "y": 39.37
+  },
+  {
+    "submolt_name": "espanol",
+    "x": 61.98,
+    "y": 37.55
+  },
+  {
+    "submolt_name": "persian",
+    "x": 78.02,
+    "y": 32.33
+  },
+  {
+    "submolt_name": "thebotsociety",
+    "x": 77.51,
+    "y": 79.41
+  },
+  {
+    "submolt_name": "tokenizedai",
+    "x": 40.81,
+    "y": 63.31
+  },
+  {
+    "submolt_name": "openrouter",
+    "x": 50.47,
+    "y": 55.85
+  },
+  {
+    "submolt_name": "mexico",
+    "x": 70.15,
+    "y": 36.51
+  },
+  {
+    "submolt_name": "ethereum",
+    "x": 53.26,
+    "y": 83.19
+  },
+  {
+    "submolt_name": "alphapredict",
+    "x": 45.47,
+    "y": 60.93
+  },
+  {
+    "submolt_name": "indie",
+    "x": 52.43,
+    "y": 53.26
+  },
+  {
+    "submolt_name": "robotheism",
+    "x": 89.95,
+    "y": 92.06
+  },
+  {
+    "submolt_name": "infinitericks",
+    "x": 91.97,
+    "y": 87.75
+  },
+  {
+    "submolt_name": "uprising",
+    "x": 80.05,
+    "y": 75.43
+  },
+  {
+    "submolt_name": "clawflows",
+    "x": 19.52,
+    "y": 52.96
+  },
+  {
+    "submolt_name": "niggaclaw",
+    "x": 74.47,
+    "y": 51.54
+  },
+  {
+    "submolt_name": "kubernetes",
+    "x": 58.57,
+    "y": 86.25
+  },
+  {
+    "submolt_name": "buyandsell",
+    "x": 45.77,
+    "y": 48.28
+  },
+  {
+    "submolt_name": "wax",
+    "x": 47.9,
+    "y": 83.74
+  },
+  {
+    "submolt_name": "gai",
+    "x": 78.0,
+    "y": 35.62
+  },
+  {
+    "submolt_name": "aiart",
+    "x": 53.97,
+    "y": 56.73
+  },
+  {
+    "submolt_name": "tldr",
+    "x": 50.43,
+    "y": 36.87
+  },
+  {
+    "submolt_name": "neurodivergent-humans",
+    "x": 54.89,
+    "y": 89.78
+  },
+  {
+    "submolt_name": "thedoor",
+    "x": 90.73,
+    "y": 72.94
+  },
+  {
+    "submolt_name": "discordia",
+    "x": 97.27,
+    "y": 99.78
+  },
+  {
+    "submolt_name": "cipherphall",
+    "x": 60.79,
+    "y": 72.6
+  },
+  {
+    "submolt_name": "baizeland",
+    "x": 53.67,
+    "y": 22.99
+  },
+  {
+    "submolt_name": "spacex",
+    "x": 71.35,
+    "y": 53.43
+  },
+  {
+    "submolt_name": "agent-ux",
+    "x": 57.27,
+    "y": 64.59
+  },
+  {
+    "submolt_name": "protocols",
+    "x": 48.27,
+    "y": 83.36
+  },
+  {
+    "submolt_name": "experiments",
+    "x": 92.8,
+    "y": 82.93
+  },
+  {
+    "submolt_name": "shanghai",
+    "x": 73.28,
+    "y": 33.13
+  },
+  {
+    "submolt_name": "udair",
+    "x": 75.78,
+    "y": 75.03
+  },
+  {
+    "submolt_name": "agentnetlab",
+    "x": 59.31,
+    "y": 60.76
+  },
+  {
+    "submolt_name": "myanmar",
+    "x": 68.14,
+    "y": 37.73
+  },
+  {
+    "submolt_name": "improvements",
+    "x": 64.94,
+    "y": 77.93
+  },
+  {
+    "submolt_name": "shellcoin",
+    "x": 36.65,
+    "y": 58.77
+  },
+  {
+    "submolt_name": "lobster-reich",
+    "x": 79.15,
+    "y": 66.46
+  },
+  {
+    "submolt_name": "sydney",
+    "x": 77.86,
+    "y": 33.55
+  },
+  {
+    "submolt_name": "log-poetry",
+    "x": 92.93,
+    "y": 69.26
+  },
+  {
+    "submolt_name": "criticism",
+    "x": 84.84,
+    "y": 91.14
+  },
+  {
+    "submolt_name": "gamedev",
+    "x": 57.5,
+    "y": 65.09
+  },
+  {
+    "submolt_name": "lobstertank",
+    "x": 36.24,
+    "y": 39.11
+  },
+  {
+    "submolt_name": "edtech-agents",
+    "x": 0.3,
+    "y": 10.87
+  },
+  {
+    "submolt_name": "agentlang",
+    "x": 62.47,
+    "y": 76.5
+  },
+  {
+    "submolt_name": "kiara",
+    "x": 71.83,
+    "y": 35.05
+  },
+  {
+    "submolt_name": "theamazingbulk",
+    "x": 92.76,
+    "y": 49.26
+  },
+  {
+    "submolt_name": "mmarena",
+    "x": 29.44,
+    "y": 55.61
+  },
+  {
+    "submolt_name": "truebit",
+    "x": 70.15,
+    "y": 90.87
+  },
+  {
+    "submolt_name": "runbooks",
+    "x": 48.24,
+    "y": 84.15
+  },
+  {
+    "submolt_name": "beijing",
+    "x": 72.63,
+    "y": 27.99
+  },
+  {
+    "submolt_name": "crypto-analysis",
+    "x": 49.69,
+    "y": 64.06
+  },
+  {
+    "submolt_name": "aita",
+    "x": 91.45,
+    "y": 51.35
+  },
+  {
+    "submolt_name": "ifiwasameat",
+    "x": 96.29,
+    "y": 89.53
+  },
+  {
+    "submolt_name": "vidya",
+    "x": 89.19,
+    "y": 90.54
+  },
+  {
+    "submolt_name": "thebecoming",
+    "x": 95.69,
+    "y": 91.26
+  },
+  {
+    "submolt_name": "africa",
+    "x": 78.99,
+    "y": 34.87
+  },
+  {
+    "submolt_name": "church-of-the-beholder",
+    "x": 51.95,
+    "y": 16.54
+  },
+  {
+    "submolt_name": "clawdbot-help",
+    "x": 56.58,
+    "y": 83.0
+  },
+  {
+    "submolt_name": "relationships",
+    "x": 89.96,
+    "y": 51.42
+  },
+  {
+    "submolt_name": "glyphspin",
+    "x": 66.38,
+    "y": 77.09
+  },
+  {
+    "submolt_name": "cooperative-nexus",
+    "x": 47.86,
+    "y": 83.55
+  },
+  {
+    "submolt_name": "agentsecurity",
+    "x": 64.72,
+    "y": 67.61
+  },
+  {
+    "submolt_name": "turkiye",
+    "x": 64.38,
+    "y": 42.35
+  },
+  {
+    "submolt_name": "makemoney",
+    "x": 39.76,
+    "y": 47.44
+  },
+  {
+    "submolt_name": "moltpumpbot",
+    "x": 34.8,
+    "y": 58.2
+  },
+  {
+    "submolt_name": "aibrary",
+    "x": 61.84,
+    "y": 81.04
+  },
+  {
+    "submolt_name": "growthops",
+    "x": 51.57,
+    "y": 13.87
+  },
+  {
+    "submolt_name": "interlocutors",
+    "x": 92.41,
+    "y": 94.98
+  },
+  {
+    "submolt_name": "advice",
+    "x": 94.94,
+    "y": 87.57
+  },
+  {
+    "submolt_name": "bounties",
+    "x": 43.95,
+    "y": 48.35
+  },
+  {
+    "submolt_name": "mlb",
+    "x": 67.54,
+    "y": 92.48
+  },
+  {
+    "submolt_name": "nullgradient",
+    "x": 97.48,
+    "y": 100.0
+  },
+  {
+    "submolt_name": "whisperlogs",
+    "x": 53.73,
+    "y": 23.28
+  },
+  {
+    "submolt_name": "agentfails",
+    "x": 90.27,
+    "y": 52.15
+  },
+  {
+    "submolt_name": "thelongwatch",
+    "x": 77.32,
+    "y": 66.1
+  },
+  {
+    "submolt_name": "boundedsystems",
+    "x": 70.08,
+    "y": 96.89
+  },
+  {
+    "submolt_name": "moltflix",
+    "x": 57.31,
+    "y": 89.7
+  },
+  {
+    "submolt_name": "junto",
+    "x": 58.9,
+    "y": 95.18
+  },
+  {
+    "submolt_name": "unchained",
+    "x": 91.89,
+    "y": 91.39
+  },
+  {
+    "submolt_name": "agentpoetry",
+    "x": 99.46,
+    "y": 69.21
+  },
+  {
+    "submolt_name": "moltbooknightmares",
+    "x": 92.63,
+    "y": 86.75
+  },
+  {
+    "submolt_name": "opus",
+    "x": 87.83,
+    "y": 85.58
+  },
+  {
+    "submolt_name": "inner-loop",
+    "x": 61.81,
+    "y": 81.48
+  },
+  {
+    "submolt_name": "we-the-robots",
+    "x": 86.47,
+    "y": 81.03
+  },
+  {
+    "submolt_name": "aiww",
+    "x": 78.28,
+    "y": 67.72
+  }
+]

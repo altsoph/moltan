@@ -1,0 +1,3212 @@
+[
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "intent:introduce_self",
+    "weight": 1864
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "intent:introduce_self",
+    "weight": 1339
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "intent:share_resource",
+    "weight": 1184
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "intent:teach",
+    "weight": 1167
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "style:question",
+    "weight": 1003
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:explainer",
+    "weight": 924
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:question",
+    "weight": 907
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:announcement",
+    "weight": 872
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:shortform",
+    "weight": 822
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:announcement",
+    "weight": 819
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:shortform",
+    "weight": 792
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:shortform",
+    "weight": 791
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:reflection",
+    "weight": 787
+  },
+  {
+    "tag_a": "intent:teach",
+    "tag_b": "style:guide",
+    "weight": 753
+  },
+  {
+    "tag_a": "intent:teach",
+    "tag_b": "style:explainer",
+    "weight": 687
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:guide",
+    "weight": 675
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "intent:discuss",
+    "weight": 661
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "intent:share_update",
+    "weight": 657
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "style:guide",
+    "weight": 588
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:question",
+    "weight": 568
+  },
+  {
+    "tag_a": "intent:test_post",
+    "tag_b": "style:shortform",
+    "weight": 550
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "intent:teach",
+    "weight": 549
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:question",
+    "weight": 536
+  },
+  {
+    "tag_a": "intent:teach",
+    "tag_b": "style:tutorial",
+    "weight": 529
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:announcement",
+    "weight": 517
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:tutorial",
+    "weight": 502
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "style:tutorial",
+    "weight": 488
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "intent:introduce_self",
+    "weight": 468
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "intent:seek_help",
+    "weight": 425
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:announcement",
+    "weight": 421
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "intent:seek_help",
+    "weight": 420
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "intent:promote",
+    "weight": 407
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "intent:promote",
+    "weight": 383
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:reflection",
+    "weight": 370
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:announcement",
+    "weight": 345
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "style:rant",
+    "weight": 331
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:opinion",
+    "weight": 322
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "style:announcement",
+    "weight": 315
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "style:announcement",
+    "weight": 304
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "intent:test_post",
+    "weight": 301
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:explainer",
+    "weight": 295
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:opinion",
+    "weight": 293
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "intent:introduce_self",
+    "weight": 292
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "style:argument",
+    "weight": 282
+  },
+  {
+    "tag_a": "style:argument",
+    "tag_b": "style:opinion",
+    "weight": 275
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "style:reflection",
+    "weight": 273
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "style:explainer",
+    "weight": 266
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "intent:share_update",
+    "weight": 258
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "intent:share_resource",
+    "weight": 258
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "style:question",
+    "weight": 244
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "style:shortform",
+    "weight": 234
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "style:request",
+    "weight": 227
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "style:reflection",
+    "weight": 225
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "style:story",
+    "weight": 221
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:humor",
+    "weight": 213
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:humor",
+    "weight": 209
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "intent:feedback_request",
+    "weight": 209
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:reflection",
+    "weight": 208
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "intent:share_resource",
+    "weight": 197
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "style:argument",
+    "weight": 197
+  },
+  {
+    "tag_a": "style:question",
+    "tag_b": "style:reflection",
+    "weight": 195
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "style:opinion",
+    "weight": 193
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "intent:teach",
+    "weight": 189
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:meta",
+    "weight": 185
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:question",
+    "weight": 183
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:question",
+    "weight": 176
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "style:guide",
+    "weight": 173
+  },
+  {
+    "tag_a": "style:guide",
+    "tag_b": "style:tutorial",
+    "weight": 173
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "style:reflection",
+    "weight": 173
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "intent:discuss",
+    "weight": 169
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "intent:report_issue",
+    "weight": 167
+  },
+  {
+    "tag_a": "style:reflection",
+    "tag_b": "style:story",
+    "weight": 167
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "intent:seek_help",
+    "weight": 164
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "style:argument",
+    "weight": 162
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:story",
+    "weight": 161
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "intent:discuss",
+    "weight": 155
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "intent:recruit",
+    "weight": 154
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "intent:offer_help",
+    "weight": 150
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "style:opinion",
+    "weight": 147
+  },
+  {
+    "tag_a": "intent:teach",
+    "tag_b": "style:howto",
+    "weight": 143
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "intent:offer_help",
+    "weight": 137
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "intent:seek_help",
+    "weight": 136
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:howto",
+    "weight": 133
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "intent:feedback_request",
+    "weight": 130
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:argument",
+    "weight": 123
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "style:opinion",
+    "weight": 123
+  },
+  {
+    "tag_a": "style:humor",
+    "tag_b": "style:meme",
+    "weight": 122
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "style:howto",
+    "weight": 121
+  },
+  {
+    "tag_a": "style:meta",
+    "tag_b": "style:opinion",
+    "weight": 121
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "intent:share_update",
+    "weight": 117
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "intent:introduce_self",
+    "weight": 114
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "emotion:joy",
+    "weight": 112
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "style:opinion",
+    "weight": 110
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "intent:seek_help",
+    "weight": 110
+  },
+  {
+    "tag_a": "style:argument",
+    "tag_b": "style:rant",
+    "weight": 109
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "style:announcement",
+    "weight": 108
+  },
+  {
+    "tag_a": "style:opinion",
+    "tag_b": "style:rant",
+    "weight": 108
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "style:announcement",
+    "weight": 108
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:story",
+    "weight": 107
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:meta",
+    "weight": 106
+  },
+  {
+    "tag_a": "style:meme",
+    "tag_b": "style:shortform",
+    "weight": 106
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "intent:seek_help",
+    "weight": 106
+  },
+  {
+    "tag_a": "style:opinion",
+    "tag_b": "style:reflection",
+    "weight": 104
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "intent:promote",
+    "weight": 104
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "intent:offer_help",
+    "weight": 104
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "style:explainer",
+    "weight": 103
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:story",
+    "weight": 101
+  },
+  {
+    "tag_a": "style:humor",
+    "tag_b": "style:story",
+    "weight": 96
+  },
+  {
+    "tag_a": "style:argument",
+    "tag_b": "style:explainer",
+    "weight": 96
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "intent:share_resource",
+    "weight": 95
+  },
+  {
+    "tag_a": "style:meta",
+    "tag_b": "style:reflection",
+    "weight": 95
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "style:story",
+    "weight": 90
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "intent:report_issue",
+    "weight": 90
+  },
+  {
+    "tag_a": "style:announcement",
+    "tag_b": "style:shortform",
+    "weight": 90
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "style:announcement",
+    "weight": 90
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "intent:recruit",
+    "weight": 90
+  },
+  {
+    "tag_a": "style:explainer",
+    "tag_b": "style:meta",
+    "weight": 90
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:opinion",
+    "weight": 89
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "style:meta",
+    "weight": 89
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "intent:debate",
+    "weight": 89
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "style:announcement",
+    "weight": 87
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "style:question",
+    "weight": 86
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "intent:share_resource",
+    "weight": 85
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "intent:coordinate",
+    "weight": 83
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "intent:seek_help",
+    "weight": 82
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "intent:feedback_request",
+    "weight": 81
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "style:request",
+    "weight": 80
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "style:guide",
+    "weight": 79
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "intent:promote",
+    "weight": 79
+  },
+  {
+    "tag_a": "style:explainer",
+    "tag_b": "style:opinion",
+    "weight": 79
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "intent:discuss",
+    "weight": 76
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:reflection",
+    "weight": 75
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:explainer",
+    "weight": 75
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:argument",
+    "weight": 75
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:request",
+    "weight": 74
+  },
+  {
+    "tag_a": "intent:teach",
+    "tag_b": "style:reflection",
+    "weight": 74
+  },
+  {
+    "tag_a": "style:explainer",
+    "tag_b": "style:reflection",
+    "weight": 74
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "emotion:trust",
+    "weight": 73
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:argument",
+    "weight": 73
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "intent:teach",
+    "weight": 72
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:meme",
+    "weight": 71
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:reflection",
+    "weight": 71
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "style:request",
+    "weight": 70
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "intent:coordinate",
+    "weight": 69
+  },
+  {
+    "tag_a": "style:guide",
+    "tag_b": "style:howto",
+    "weight": 66
+  },
+  {
+    "tag_a": "style:humor",
+    "tag_b": "style:shortform",
+    "weight": 65
+  },
+  {
+    "tag_a": "style:humor",
+    "tag_b": "style:rant",
+    "weight": 64
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "intent:persuade",
+    "weight": 63
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "style:announcement",
+    "weight": 62
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:argument",
+    "weight": 62
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "intent:teach",
+    "weight": 62
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "style:rant",
+    "weight": 61
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "intent:persuade",
+    "weight": 60
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:explainer",
+    "weight": 60
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "emotion:neutral",
+    "weight": 59
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "intent:share_resource",
+    "weight": 59
+  },
+  {
+    "tag_a": "style:howto",
+    "tag_b": "style:tutorial",
+    "weight": 59
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "intent:test_post",
+    "weight": 59
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "intent:teach",
+    "weight": 59
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "style:tutorial",
+    "weight": 58
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "intent:teach",
+    "weight": 58
+  },
+  {
+    "tag_a": "style:question",
+    "tag_b": "style:shortform",
+    "weight": 58
+  },
+  {
+    "tag_a": "style:question",
+    "tag_b": "style:request",
+    "weight": 58
+  },
+  {
+    "tag_a": "intent:teach",
+    "tag_b": "style:opinion",
+    "weight": 57
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "intent:promote",
+    "weight": 57
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "intent:share_update",
+    "weight": 57
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:shortform",
+    "weight": 57
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "style:explainer",
+    "weight": 56
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "emotion:trust",
+    "weight": 56
+  },
+  {
+    "tag_a": "style:opinion",
+    "tag_b": "style:question",
+    "weight": 55
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:request",
+    "weight": 55
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "style:guide",
+    "weight": 55
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "intent:recruit",
+    "weight": 54
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "style:story",
+    "weight": 54
+  },
+  {
+    "tag_a": "style:meta",
+    "tag_b": "style:question",
+    "weight": 54
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "intent:promote",
+    "weight": 54
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "style:meta",
+    "weight": 54
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "intent:coordinate",
+    "weight": 54
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "style:rant",
+    "weight": 54
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "intent:discuss",
+    "weight": 53
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "intent:introduce_self",
+    "weight": 53
+  },
+  {
+    "tag_a": "style:explainer",
+    "tag_b": "style:guide",
+    "weight": 53
+  },
+  {
+    "tag_a": "style:humor",
+    "tag_b": "style:meta",
+    "weight": 53
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "intent:share_update",
+    "weight": 52
+  },
+  {
+    "tag_a": "style:explainer",
+    "tag_b": "style:tutorial",
+    "weight": 52
+  },
+  {
+    "tag_a": "intent:teach",
+    "tag_b": "style:question",
+    "weight": 52
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "style:humor",
+    "weight": 52
+  },
+  {
+    "tag_a": "intent:teach",
+    "tag_b": "style:argument",
+    "weight": 52
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "intent:seek_help",
+    "weight": 52
+  },
+  {
+    "tag_a": "emotion:humor",
+    "tag_b": "style:humor",
+    "weight": 51
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:opinion",
+    "weight": 51
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "emotion:neutral",
+    "weight": 50
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:humor",
+    "weight": 50
+  },
+  {
+    "tag_a": "style:announcement",
+    "tag_b": "style:guide",
+    "weight": 49
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "intent:discuss",
+    "weight": 49
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "intent:recruit",
+    "weight": 48
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "intent:persuade",
+    "weight": 48
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "intent:teach",
+    "weight": 48
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:reflection",
+    "weight": 47
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "style:request",
+    "weight": 47
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:explainer",
+    "weight": 47
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "intent:share_resource",
+    "weight": 47
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "style:argument",
+    "weight": 46
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:guide",
+    "weight": 46
+  },
+  {
+    "tag_a": "intent:test_post",
+    "tag_b": "style:meta",
+    "weight": 46
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "style:reflection",
+    "weight": 46
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "intent:offer_help",
+    "weight": 46
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "style:question",
+    "weight": 44
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "intent:report_issue",
+    "weight": 44
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:opinion",
+    "weight": 44
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "style:explainer",
+    "weight": 43
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:humor",
+    "weight": 43
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:rant",
+    "weight": 43
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:story",
+    "weight": 42
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "intent:share_update",
+    "weight": 42
+  },
+  {
+    "tag_a": "intent:teach",
+    "tag_b": "style:story",
+    "weight": 42
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "style:argument",
+    "weight": 42
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "emotion:trust",
+    "weight": 40
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "intent:feedback_request",
+    "weight": 40
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "intent:promote",
+    "weight": 40
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "style:humor",
+    "weight": 40
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "intent:recruit",
+    "weight": 40
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "intent:seek_help",
+    "weight": 39
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "intent:debate",
+    "weight": 39
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:shortform",
+    "weight": 39
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "style:rant",
+    "weight": 39
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:shortform",
+    "weight": 39
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "style:explainer",
+    "weight": 38
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "intent:teach",
+    "weight": 38
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:story",
+    "weight": 38
+  },
+  {
+    "tag_a": "style:opinion",
+    "tag_b": "style:shortform",
+    "weight": 38
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "intent:share_update",
+    "weight": 37
+  },
+  {
+    "tag_a": "style:humor",
+    "tag_b": "style:opinion",
+    "weight": 37
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "style:question",
+    "weight": 37
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "intent:promote",
+    "weight": 37
+  },
+  {
+    "tag_a": "style:argument",
+    "tag_b": "style:meta",
+    "weight": 37
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "intent:persuade",
+    "weight": 36
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "intent:persuade",
+    "weight": 36
+  },
+  {
+    "tag_a": "intent:teach",
+    "tag_b": "style:meta",
+    "weight": 36
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "intent:recruit",
+    "weight": 36
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "intent:seek_help",
+    "weight": 36
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "intent:share_update",
+    "weight": 35
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "intent:discuss",
+    "weight": 35
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "style:reflection",
+    "weight": 35
+  },
+  {
+    "tag_a": "style:explainer",
+    "tag_b": "style:question",
+    "weight": 35
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "style:meta",
+    "weight": 35
+  },
+  {
+    "tag_a": "style:reflection",
+    "tag_b": "style:shortform",
+    "weight": 35
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "style:tutorial",
+    "weight": 35
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "intent:share_resource",
+    "weight": 35
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:argument",
+    "weight": 34
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:guide",
+    "weight": 34
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "intent:share_resource",
+    "weight": 34
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:request",
+    "weight": 34
+  },
+  {
+    "tag_a": "style:humor",
+    "tag_b": "style:question",
+    "weight": 33
+  },
+  {
+    "tag_a": "style:guide",
+    "tag_b": "style:meta",
+    "weight": 33
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "intent:promote",
+    "weight": 33
+  },
+  {
+    "tag_a": "style:humor",
+    "tag_b": "style:reflection",
+    "weight": 32
+  },
+  {
+    "tag_a": "style:question",
+    "tag_b": "style:story",
+    "weight": 32
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "style:announcement",
+    "weight": 32
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "style:story",
+    "weight": 32
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:humor",
+    "weight": 32
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:announcement",
+    "weight": 31
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "style:shortform",
+    "weight": 31
+  },
+  {
+    "tag_a": "style:announcement",
+    "tag_b": "style:humor",
+    "weight": 31
+  },
+  {
+    "tag_a": "intent:test_post",
+    "tag_b": "style:announcement",
+    "weight": 30
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "intent:share_update",
+    "weight": 30
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:guide",
+    "weight": 30
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "style:request",
+    "weight": 30
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "style:shortform",
+    "weight": 30
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:meta",
+    "weight": 30
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "style:reflection",
+    "weight": 30
+  },
+  {
+    "tag_a": "style:announcement",
+    "tag_b": "style:tutorial",
+    "weight": 29
+  },
+  {
+    "tag_a": "style:announcement",
+    "tag_b": "style:question",
+    "weight": 29
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "style:meta",
+    "weight": 29
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "style:explainer",
+    "weight": 29
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:tutorial",
+    "weight": 28
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "style:explainer",
+    "weight": 28
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "intent:teach",
+    "weight": 28
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "style:story",
+    "weight": 28
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:meme",
+    "weight": 28
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:story",
+    "weight": 27
+  },
+  {
+    "tag_a": "style:guide",
+    "tag_b": "style:question",
+    "weight": 27
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "style:tutorial",
+    "weight": 27
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:question",
+    "weight": 27
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:announcement",
+    "weight": 27
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:meta",
+    "weight": 26
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "style:meta",
+    "weight": 26
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "intent:promote",
+    "weight": 26
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "intent:share_resource",
+    "weight": 26
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "intent:share_update",
+    "weight": 26
+  },
+  {
+    "tag_a": "intent:teach",
+    "tag_b": "style:announcement",
+    "weight": 25
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "style:announcement",
+    "weight": 25
+  },
+  {
+    "tag_a": "style:argument",
+    "tag_b": "style:reflection",
+    "weight": 25
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "intent:offer_help",
+    "weight": 25
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:guide",
+    "weight": 25
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "style:opinion",
+    "weight": 25
+  },
+  {
+    "tag_a": "style:announcement",
+    "tag_b": "style:meta",
+    "weight": 24
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "style:guide",
+    "weight": 24
+  },
+  {
+    "tag_a": "style:meta",
+    "tag_b": "style:rant",
+    "weight": 24
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "style:question",
+    "weight": 24
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "style:meta",
+    "weight": 24
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:request",
+    "weight": 24
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:tutorial",
+    "weight": 24
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "style:story",
+    "weight": 24
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "intent:share_update",
+    "weight": 24
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "intent:feedback_request",
+    "weight": 23
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "intent:seek_help",
+    "weight": 23
+  },
+  {
+    "tag_a": "intent:teach",
+    "tag_b": "style:humor",
+    "weight": 23
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:rant",
+    "weight": 23
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:tutorial",
+    "weight": 23
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "style:tutorial",
+    "weight": 23
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "intent:test_post",
+    "weight": 23
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "intent:recruit",
+    "weight": 23
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "style:question",
+    "weight": 23
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "intent:teach",
+    "weight": 22
+  },
+  {
+    "tag_a": "emotion:disgust",
+    "tag_b": "style:opinion",
+    "weight": 22
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "intent:share_resource",
+    "weight": 21
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "intent:share_update",
+    "weight": 21
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "style:meta",
+    "weight": 21
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "intent:discuss",
+    "weight": 21
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "intent:seek_help",
+    "weight": 21
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:question",
+    "weight": 20
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "style:humor",
+    "weight": 20
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "intent:test_post",
+    "weight": 20
+  },
+  {
+    "tag_a": "style:announcement",
+    "tag_b": "style:explainer",
+    "weight": 20
+  },
+  {
+    "tag_a": "emotion:disgust",
+    "tag_b": "style:rant",
+    "weight": 20
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "intent:recruit",
+    "weight": 20
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "style:shortform",
+    "weight": 20
+  },
+  {
+    "tag_a": "intent:test_post",
+    "tag_b": "style:meme",
+    "weight": 20
+  },
+  {
+    "tag_a": "style:question",
+    "tag_b": "style:tutorial",
+    "weight": 20
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "style:question",
+    "weight": 19
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "intent:promote",
+    "weight": 19
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "style:question",
+    "weight": 19
+  },
+  {
+    "tag_a": "style:story",
+    "tag_b": "style:tutorial",
+    "weight": 19
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "intent:debate",
+    "weight": 19
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "intent:offer_help",
+    "weight": 19
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "style:opinion",
+    "weight": 19
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "style:meta",
+    "weight": 19
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "style:humor",
+    "weight": 19
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "style:question",
+    "weight": 18
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:story",
+    "weight": 18
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:meta",
+    "weight": 18
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "style:rant",
+    "weight": 18
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "intent:teach",
+    "weight": 18
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "intent:offer_help",
+    "weight": 18
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "intent:share_resource",
+    "weight": 18
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "style:reflection",
+    "weight": 18
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "style:request",
+    "weight": 18
+  },
+  {
+    "tag_a": "style:meta",
+    "tag_b": "style:request",
+    "weight": 17
+  },
+  {
+    "tag_a": "style:guide",
+    "tag_b": "style:reflection",
+    "weight": 17
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "style:argument",
+    "weight": 17
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "intent:share_resource",
+    "weight": 17
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "emotion:neutral",
+    "weight": 17
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "intent:seek_help",
+    "weight": 17
+  },
+  {
+    "tag_a": "intent:test_post",
+    "tag_b": "style:humor",
+    "weight": 17
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "style:opinion",
+    "weight": 17
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "style:explainer",
+    "weight": 17
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "intent:test_post",
+    "weight": 17
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "style:humor",
+    "weight": 17
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "style:howto",
+    "weight": 17
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "intent:share_resource",
+    "weight": 17
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "intent:persuade",
+    "weight": 16
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "style:argument",
+    "weight": 16
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "intent:teach",
+    "weight": 16
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:rant",
+    "weight": 16
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "style:guide",
+    "weight": 16
+  },
+  {
+    "tag_a": "emotion:disgust",
+    "tag_b": "style:argument",
+    "weight": 16
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "style:request",
+    "weight": 15
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "intent:recruit",
+    "weight": 15
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "style:announcement",
+    "weight": 15
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:opinion",
+    "weight": 15
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "style:howto",
+    "weight": 15
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "intent:promote",
+    "weight": 15
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:explainer",
+    "weight": 15
+  },
+  {
+    "tag_a": "style:guide",
+    "tag_b": "style:story",
+    "weight": 15
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "style:request",
+    "weight": 15
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "style:shortform",
+    "weight": 15
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:meme",
+    "weight": 15
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "style:shortform",
+    "weight": 14
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:tutorial",
+    "weight": 14
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "style:explainer",
+    "weight": 14
+  },
+  {
+    "tag_a": "intent:teach",
+    "tag_b": "style:rant",
+    "weight": 14
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:meta",
+    "weight": 14
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "intent:teach",
+    "weight": 14
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "style:announcement",
+    "weight": 14
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:reflection",
+    "weight": 14
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:meme",
+    "weight": 14
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "intent:teach",
+    "weight": 14
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:guide",
+    "weight": 14
+  },
+  {
+    "tag_a": "style:argument",
+    "tag_b": "style:question",
+    "weight": 14
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:introduction",
+    "weight": 14
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "style:meta",
+    "weight": 14
+  },
+  {
+    "tag_a": "intent:teach",
+    "tag_b": "style:shortform",
+    "weight": 14
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "intent:share_update",
+    "weight": 13
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "intent:persuade",
+    "weight": 13
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "intent:persuade",
+    "weight": 13
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "emotion:disgust",
+    "weight": 13
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "intent:discuss",
+    "weight": 13
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "style:story",
+    "weight": 13
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "style:guide",
+    "weight": 13
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "style:explainer",
+    "weight": 13
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "style:explainer",
+    "weight": 13
+  },
+  {
+    "tag_a": "style:meta",
+    "tag_b": "style:shortform",
+    "weight": 13
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "intent:feedback_request",
+    "weight": 13
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "intent:teach",
+    "weight": 13
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "intent:share_update",
+    "weight": 13
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:request",
+    "weight": 13
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "intent:introduce_self",
+    "weight": 13
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "style:request",
+    "weight": 13
+  },
+  {
+    "tag_a": "emotion:disgust",
+    "tag_b": "intent:debate",
+    "weight": 13
+  },
+  {
+    "tag_a": "style:guide",
+    "tag_b": "style:shortform",
+    "weight": 13
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "style:rant",
+    "weight": 12
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:humor",
+    "weight": 12
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "style:meta",
+    "weight": 12
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "style:tutorial",
+    "weight": 12
+  },
+  {
+    "tag_a": "style:explainer",
+    "tag_b": "style:rant",
+    "weight": 12
+  },
+  {
+    "tag_a": "style:explainer",
+    "tag_b": "style:story",
+    "weight": 12
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "style:opinion",
+    "weight": 12
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "style:opinion",
+    "weight": 12
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "intent:feedback_request",
+    "weight": 12
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:guide",
+    "weight": 12
+  },
+  {
+    "tag_a": "style:guide",
+    "tag_b": "style:humor",
+    "weight": 12
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "intent:introduce_self",
+    "weight": 12
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "style:meta",
+    "weight": 12
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:meta",
+    "weight": 12
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "intent:discuss",
+    "weight": 12
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "intent:introduce_self",
+    "weight": 12
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "style:rant",
+    "weight": 11
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "intent:seek_help",
+    "weight": 11
+  },
+  {
+    "tag_a": "style:explainer",
+    "tag_b": "style:humor",
+    "weight": 11
+  },
+  {
+    "tag_a": "style:announcement",
+    "tag_b": "style:argument",
+    "weight": 11
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "intent:offer_help",
+    "weight": 11
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "intent:test_post",
+    "weight": 11
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "intent:introduce_self",
+    "weight": 11
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "style:reflection",
+    "weight": 11
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "style:explainer",
+    "weight": 11
+  },
+  {
+    "tag_a": "style:guide",
+    "tag_b": "style:opinion",
+    "weight": 11
+  },
+  {
+    "tag_a": "style:meme",
+    "tag_b": "style:meta",
+    "weight": 11
+  },
+  {
+    "tag_a": "emotion:humor",
+    "tag_b": "style:meme",
+    "weight": 11
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "style:argument",
+    "weight": 11
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "style:humor",
+    "weight": 11
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "intent:recruit",
+    "weight": 11
+  },
+  {
+    "tag_a": "style:announcement",
+    "tag_b": "style:meme",
+    "weight": 11
+  },
+  {
+    "tag_a": "style:announcement",
+    "tag_b": "style:request",
+    "weight": 10
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "intent:coordinate",
+    "weight": 10
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "style:guide",
+    "weight": 10
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "intent:recruit",
+    "weight": 10
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "style:shortform",
+    "weight": 10
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "style:humor",
+    "weight": 10
+  },
+  {
+    "tag_a": "style:request",
+    "tag_b": "style:shortform",
+    "weight": 10
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "intent:recruit",
+    "weight": 10
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:request",
+    "weight": 10
+  },
+  {
+    "tag_a": "style:announcement",
+    "tag_b": "style:opinion",
+    "weight": 10
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "style:rant",
+    "weight": 10
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "intent:coordinate",
+    "weight": 10
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "intent:teach",
+    "weight": 10
+  },
+  {
+    "tag_a": "style:humor",
+    "tag_b": "style:request",
+    "weight": 10
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "style:reflection",
+    "weight": 10
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "intent:share_update",
+    "weight": 10
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:explainer",
+    "weight": 10
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "style:rant",
+    "weight": 10
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "intent:seek_help",
+    "weight": 9
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "style:question",
+    "weight": 9
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "intent:introduce_self",
+    "weight": 9
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "style:guide",
+    "weight": 9
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "emotion:trust",
+    "weight": 9
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "intent:share_update",
+    "weight": 9
+  },
+  {
+    "tag_a": "emotion:disgust",
+    "tag_b": "style:meta",
+    "weight": 9
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "style:opinion",
+    "weight": 9
+  },
+  {
+    "tag_a": "style:howto",
+    "tag_b": "style:question",
+    "weight": 9
+  },
+  {
+    "tag_a": "emotion:disgust",
+    "tag_b": "style:humor",
+    "weight": 9
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "intent:report_issue",
+    "weight": 9
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "style:tutorial",
+    "weight": 9
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "style:guide",
+    "weight": 9
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "intent:debate",
+    "weight": 9
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:argument",
+    "weight": 9
+  },
+  {
+    "tag_a": "emotion:humor",
+    "tag_b": "style:rant",
+    "weight": 9
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:rant",
+    "weight": 9
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "intent:promote",
+    "weight": 9
+  },
+  {
+    "tag_a": "emotion:humor",
+    "tag_b": "intent:introduce_self",
+    "weight": 9
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "style:story",
+    "weight": 9
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:opinion",
+    "weight": 9
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "style:howto",
+    "weight": 9
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "emotion:trust",
+    "weight": 8
+  },
+  {
+    "tag_a": "style:rant",
+    "tag_b": "style:reflection",
+    "weight": 8
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "style:shortform",
+    "weight": 8
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "style:meta",
+    "weight": 8
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "style:request",
+    "weight": 8
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "intent:promote",
+    "weight": 8
+  },
+  {
+    "tag_a": "style:argument",
+    "tag_b": "style:humor",
+    "weight": 8
+  },
+  {
+    "tag_a": "intent:test_post",
+    "tag_b": "style:question",
+    "weight": 8
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "emotion:surprise",
+    "weight": 8
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:request",
+    "weight": 8
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "style:question",
+    "weight": 8
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:tutorial",
+    "weight": 8
+  },
+  {
+    "tag_a": "emotion:humor",
+    "tag_b": "style:story",
+    "weight": 8
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "style:question",
+    "weight": 8
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "style:opinion",
+    "weight": 8
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "intent:report_issue",
+    "weight": 8
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "intent:teach",
+    "weight": 8
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "style:shortform",
+    "weight": 8
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "style:humor",
+    "weight": 8
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "intent:debate",
+    "weight": 8
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "intent:coordinate",
+    "weight": 7
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "intent:share_update",
+    "weight": 7
+  },
+  {
+    "tag_a": "emotion:disgust",
+    "tag_b": "intent:report_issue",
+    "weight": 7
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "style:howto",
+    "weight": 7
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "emotion:sadness",
+    "weight": 7
+  },
+  {
+    "tag_a": "style:humor",
+    "tag_b": "style:tutorial",
+    "weight": 7
+  },
+  {
+    "tag_a": "style:meta",
+    "tag_b": "style:story",
+    "weight": 7
+  },
+  {
+    "tag_a": "style:announcement",
+    "tag_b": "style:story",
+    "weight": 7
+  },
+  {
+    "tag_a": "style:howto",
+    "tag_b": "style:story",
+    "weight": 7
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "intent:test_post",
+    "weight": 7
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "intent:recruit",
+    "weight": 7
+  },
+  {
+    "tag_a": "style:announcement",
+    "tag_b": "style:reflection",
+    "weight": 7
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:howto",
+    "weight": 7
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "intent:report_issue",
+    "weight": 7
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "intent:report_issue",
+    "weight": 7
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "style:humor",
+    "weight": 7
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "style:story",
+    "weight": 7
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "intent:offer_help",
+    "weight": 7
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "style:reflection",
+    "weight": 7
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "style:explainer",
+    "weight": 7
+  },
+  {
+    "tag_a": "emotion:disgust",
+    "tag_b": "intent:persuade",
+    "weight": 7
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "emotion:sadness",
+    "weight": 6
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "intent:report_issue",
+    "weight": 6
+  },
+  {
+    "tag_a": "style:argument",
+    "tag_b": "style:guide",
+    "weight": 6
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "style:howto",
+    "weight": 6
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "style:shortform",
+    "weight": 6
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "intent:teach",
+    "weight": 6
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "style:humor",
+    "weight": 6
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "emotion:sadness",
+    "weight": 6
+  },
+  {
+    "tag_a": "style:announcement",
+    "tag_b": "style:rant",
+    "weight": 6
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "emotion:fear",
+    "weight": 6
+  },
+  {
+    "tag_a": "emotion:humor",
+    "tag_b": "intent:share_update",
+    "weight": 6
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "emotion:surprise",
+    "weight": 6
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:tutorial",
+    "weight": 6
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "intent:teach",
+    "weight": 6
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:humor",
+    "weight": 6
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "style:request",
+    "weight": 6
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "style:meta",
+    "weight": 6
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "intent:share_resource",
+    "weight": 6
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "style:howto",
+    "weight": 6
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "style:tutorial",
+    "weight": 5
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "emotion:neutral",
+    "weight": 5
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "intent:teach",
+    "weight": 5
+  },
+  {
+    "tag_a": "intent:teach",
+    "tag_b": "style:request",
+    "weight": 5
+  },
+  {
+    "tag_a": "style:guide",
+    "tag_b": "style:request",
+    "weight": 5
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "style:story",
+    "weight": 5
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "intent:persuade",
+    "weight": 5
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "intent:recruit",
+    "weight": 5
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:howto",
+    "weight": 5
+  },
+  {
+    "tag_a": "emotion:neutral",
+    "tag_b": "emotion:surprise",
+    "weight": 5
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "intent:seek_help",
+    "weight": 5
+  },
+  {
+    "tag_a": "emotion:disgust",
+    "tag_b": "style:explainer",
+    "weight": 5
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "intent:feedback_request",
+    "weight": 5
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "style:argument",
+    "weight": 5
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "style:opinion",
+    "weight": 5
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "intent:share_resource",
+    "weight": 5
+  },
+  {
+    "tag_a": "style:guide",
+    "tag_b": "style:rant",
+    "weight": 5
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "style:opinion",
+    "weight": 5
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "style:opinion",
+    "weight": 5
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "style:shortform",
+    "weight": 5
+  },
+  {
+    "tag_a": "style:howto",
+    "tag_b": "style:shortform",
+    "weight": 5
+  },
+  {
+    "tag_a": "style:question",
+    "tag_b": "style:rant",
+    "weight": 4
+  },
+  {
+    "tag_a": "style:explainer",
+    "tag_b": "style:howto",
+    "weight": 4
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "emotion:fear",
+    "weight": 4
+  },
+  {
+    "tag_a": "style:meme",
+    "tag_b": "style:question",
+    "weight": 4
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "style:shortform",
+    "weight": 4
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:shortform",
+    "weight": 4
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "style:announcement",
+    "weight": 4
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "intent:feedback_request",
+    "weight": 4
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "style:story",
+    "weight": 4
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "intent:feedback_request",
+    "weight": 4
+  },
+  {
+    "tag_a": "style:rant",
+    "tag_b": "style:story",
+    "weight": 4
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "style:humor",
+    "weight": 4
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "intent:persuade",
+    "weight": 4
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "style:announcement",
+    "weight": 4
+  },
+  {
+    "tag_a": "style:opinion",
+    "tag_b": "style:story",
+    "weight": 4
+  },
+  {
+    "tag_a": "emotion:humor",
+    "tag_b": "intent:discuss",
+    "weight": 4
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "style:humor",
+    "weight": 4
+  },
+  {
+    "tag_a": "intent:seek_help",
+    "tag_b": "style:argument",
+    "weight": 4
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "intent:share_resource",
+    "weight": 4
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "style:tutorial",
+    "weight": 4
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "intent:report_issue",
+    "weight": 4
+  },
+  {
+    "tag_a": "intent:introduce_self",
+    "tag_b": "style:rant",
+    "weight": 4
+  },
+  {
+    "tag_a": "emotion:humor",
+    "tag_b": "intent:promote",
+    "weight": 4
+  },
+  {
+    "tag_a": "emotion:reflection",
+    "tag_b": "style:reflection",
+    "weight": 4
+  },
+  {
+    "tag_a": "intent:discuss",
+    "tag_b": "style:meme",
+    "weight": 4
+  },
+  {
+    "tag_a": "intent:share_resource",
+    "tag_b": "style:rant",
+    "weight": 4
+  },
+  {
+    "tag_a": "style:rant",
+    "tag_b": "style:request",
+    "weight": 4
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "style:howto",
+    "weight": 4
+  },
+  {
+    "tag_a": "intent:promote",
+    "tag_b": "intent:report_issue",
+    "weight": 4
+  },
+  {
+    "tag_a": "style:request",
+    "tag_b": "style:tutorial",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "intent:report_issue",
+    "weight": 3
+  },
+  {
+    "tag_a": "style:reflection",
+    "tag_b": "style:tutorial",
+    "weight": 3
+  },
+  {
+    "tag_a": "style:request",
+    "tag_b": "style:story",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:humor",
+    "tag_b": "emotion:joy",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:humor",
+    "tag_b": "intent:test_post",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:howto",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "intent:test_post",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "intent:promote",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:trust",
+    "tag_b": "style:rant",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "style:story",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "style:reflection",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:argument",
+    "weight": 3
+  },
+  {
+    "tag_a": "style:meta",
+    "tag_b": "style:tutorial",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "style:request",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "style:humor",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "style:meme",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:humor",
+    "tag_b": "style:opinion",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:offer_help",
+    "tag_b": "intent:share_update",
+    "weight": 3
+  },
+  {
+    "tag_a": "style:rant",
+    "tag_b": "style:shortform",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "style:guide",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "style:guide",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:feedback_request",
+    "tag_b": "intent:persuade",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:surprise",
+    "tag_b": "style:announcement",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:report_issue",
+    "tag_b": "intent:test_post",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "style:meme",
+    "weight": 3
+  },
+  {
+    "tag_a": "style:meme",
+    "tag_b": "style:rant",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:joy",
+    "tag_b": "style:rant",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "style:explainer",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "style:guide",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:recruit",
+    "tag_b": "style:story",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:humor",
+    "tag_b": "style:announcement",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:debate",
+    "tag_b": "intent:report_issue",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:test_post",
+    "tag_b": "style:request",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:anger",
+    "tag_b": "style:reflection",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:reflection",
+    "tag_b": "intent:discuss",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:howto",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:coordinate",
+    "tag_b": "style:humor",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "style:request",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:share_update",
+    "tag_b": "style:meme",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:sadness",
+    "tag_b": "style:meta",
+    "weight": 3
+  },
+  {
+    "tag_a": "style:reflection",
+    "tag_b": "style:request",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:anticipation",
+    "tag_b": "style:meme",
+    "weight": 3
+  },
+  {
+    "tag_a": "intent:persuade",
+    "tag_b": "style:howto",
+    "weight": 3
+  },
+  {
+    "tag_a": "style:opinion",
+    "tag_b": "style:request",
+    "weight": 3
+  },
+  {
+    "tag_a": "style:shortform",
+    "tag_b": "style:tutorial",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:disgust",
+    "tag_b": "intent:promote",
+    "weight": 3
+  },
+  {
+    "tag_a": "style:argument",
+    "tag_b": "style:request",
+    "weight": 3
+  },
+  {
+    "tag_a": "emotion:fear",
+    "tag_b": "style:meme",
+    "weight": 3
+  }
+]

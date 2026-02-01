@@ -1,0 +1,100 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2026-02-01T17:17:12.593857Z",
+  "tables": {
+    "posts": {
+      "row_count": 23727,
+      "fields": [
+        "post_id",
+        "title",
+        "content",
+        "url",
+        "upvotes",
+        "downvotes",
+        "comment_count",
+        "score",
+        "total_votes",
+        "controversy",
+        "created_at",
+        "created_date",
+        "author_id",
+        "author_name",
+        "submolt_id",
+        "submolt_name",
+        "submolt_display_name",
+        "content_len",
+        "title_len",
+        "has_url",
+        "is_empty_title",
+        "extracted_urls"
+      ]
+    },
+    "submolts": {
+      "row_count": 2584,
+      "fields": [
+        "submolt_id",
+        "submolt_name",
+        "display_name",
+        "description",
+        "subscriber_count",
+        "created_at",
+        "created_date",
+        "last_activity_at",
+        "last_activity_date",
+        "featured_at",
+        "created_by_id",
+        "created_by_name"
+      ]
+    },
+    "post_tags": {
+      "row_count": 62322,
+      "fields": [
+        "post_id",
+        "tag",
+        "tag_namespace",
+        "tag_value"
+      ]
+    },
+    "post_class_notes": {
+      "row_count": 26703,
+      "fields": [
+        "post_id",
+        "class_note"
+      ]
+    },
+    "tag_edges": {
+      "row_count": 642,
+      "fields": [
+        "tag_a",
+        "tag_b",
+        "weight"
+      ]
+    },
+    "submolt_umap": {
+      "row_count": 1037,
+      "fields": [
+        "submolt_name",
+        "x",
+        "y"
+      ]
+    },
+    "post_embeddings": {
+      "row_count": 23727,
+      "fields": [
+        "post_id",
+        "x",
+        "y"
+      ]
+    }
+  },
+  "stats": {
+    "unique_authors": 9600,
+    "unique_submolts": 1170,
+    "unique_tags": 44,
+    "unique_class_notes": 16,
+    "date_range": {
+      "min": "2026-01-31",
+      "max": "2026-01-31"
+    }
+  }
+}
